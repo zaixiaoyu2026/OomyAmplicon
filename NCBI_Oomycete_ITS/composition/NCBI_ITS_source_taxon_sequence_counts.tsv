@@ -1,0 +1,2184 @@
+Taxonomic rank	Taxon	Number of reference sequences	Percentage of all reference sequences (%)	Percentage of assigned sequences at rank (%)
+Kingdom	Unassigned at this rank	28487	100.0000	NA
+Phylum	Oomycota	28122	98.7187	100.0000
+Phylum	Unassigned at this rank	365	1.2813	NA
+Class	Peronosporomycetes	25851	90.7467	92.1769
+Class	Saprolegniomycetes	2194	7.7018	7.8231
+Class	Unassigned at this rank	442	1.5516	NA
+Order	Peronosporales	13075	45.8981	46.6115
+Order	Pythiales	12520	43.9499	44.6330
+Order	Saprolegniales	2183	7.6631	7.7823
+Order	Albuginales	242	0.8495	0.8627
+Order	Myzocytiopsidales	15	0.0527	0.0535
+Order	Leptomitales	11	0.0386	0.0392
+Order	Rhipidiales	3	0.0105	0.0107
+Order	Olpidiopsidales	2	0.0070	0.0071
+Order	Unassigned at this rank	436	1.5305	NA
+Family	Peronosporaceae	13058	45.8385	46.5642
+Family	Pythiaceae	12458	43.7322	44.4246
+Family	Saprolegniaceae	1549	5.4376	5.5237
+Family	Verrucalvaceae	370	1.2988	1.3194
+Family	Achlyaceae	256	0.8987	0.9129
+Family	Albuginaceae	242	0.8495	0.8630
+Family	Pythiogetonaceae	33	0.1158	0.1177
+Family	Haliphthoraceae	17	0.0597	0.0606
+Family	Salisapiliaceae	15	0.0527	0.0535
+Family	Lagenidiaceae	11	0.0386	0.0392
+Family	Myzocytiopsidaceae	10	0.0351	0.0357
+Family	Eurychasmataceae	5	0.0176	0.0178
+Family	Haptoglossaceae	5	0.0176	0.0178
+Family	Leptomitaceae	5	0.0176	0.0178
+Family	Salispinaceae	3	0.0105	0.0107
+Family	Lagenaceae	2	0.0070	0.0071
+Family	Olpidiopsidaceae	2	0.0070	0.0071
+Family	Pontismataceae	2	0.0070	0.0071
+Family	Unassigned at this rank	444	1.5586	NA
+Genus	Phytophthora	11216	39.3723	40.0286
+Genus	Pythium	5891	20.6796	21.0243
+Genus	Globisporangium	4746	16.6602	16.9379
+Genus	Phytopythium	1596	5.6026	5.6959
+Genus	Saprolegnia	1402	4.9215	5.0036
+Genus	Peronospora	797	2.7978	2.8444
+Genus	Aphanomyces	353	1.2392	1.2598
+Genus	Hyaloperonospora	316	1.1093	1.1278
+Genus	Albugo	210	0.7372	0.7495
+Genus	Achlya	198	0.6951	0.7066
+Genus	Plasmopara	179	0.6284	0.6388
+Genus	Pseudoperonospora	163	0.5722	0.5817
+Genus	Bremia	154	0.5406	0.5496
+Genus	Elongisporangium	125	0.4388	0.4461
+Genus	Halophytophthora	122	0.4283	0.4354
+Genus	Lagenidium	67	0.2352	0.2391
+Genus	Leptolegnia	61	0.2141	0.2177
+Genus	Peronosclerospora	46	0.1615	0.1642
+Genus	Dictyuchus	38	0.1334	0.1356
+Genus	Pythiogeton	33	0.1158	0.1178
+Genus	Nothophytophthora	29	0.1018	0.1035
+Genus	Newbya	22	0.0772	0.0785
+Genus	Wilsoniana	17	0.0597	0.0607
+Genus	Pythiopsis	16	0.0562	0.0571
+Genus	Cokeria	15	0.0527	0.0535
+Genus	Protoachlya	15	0.0527	0.0535
+Genus	Pustula	15	0.0527	0.0535
+Genus	Salisapilia	15	0.0527	0.0535
+Genus	Perofascia	13	0.0456	0.0464
+Genus	Haliphthoros	12	0.0421	0.0428
+Genus	Salilagenidium	11	0.0386	0.0393
+Genus	Brevilegnia	10	0.0351	0.0357
+Genus	Paralagenidium	10	0.0351	0.0357
+Genus	Myzocytiopsis	9	0.0316	0.0321
+Genus	Thraustotheca	8	0.0281	0.0286
+Genus	Sommerstorffia	7	0.0246	0.0250
+Genus	Plectospira	6	0.0211	0.0214
+Genus	Protobremia	6	0.0211	0.0214
+Genus	Eurychasma	5	0.0176	0.0178
+Genus	Haptoglossa	5	0.0176	0.0178
+Genus	Aplanopsis	4	0.0140	0.0143
+Genus	Atkinsiella	4	0.0140	0.0143
+Genus	Geolegnia	4	0.0140	0.0143
+Genus	Halocrusticida	4	0.0140	0.0143
+Genus	Paraperonospora	4	0.0140	0.0143
+Genus	Phragmosporangium	4	0.0140	0.0143
+Genus	Pilasporangium	4	0.0140	0.0143
+Genus	Apodachlya	3	0.0105	0.0107
+Genus	Salispina	3	0.0105	0.0107
+Genus	Basidiophora	2	0.0070	0.0071
+Genus	Beakesia	2	0.0070	0.0071
+Genus	Calycofera	2	0.0070	0.0071
+Genus	Lagena	2	0.0070	0.0071
+Genus	Novotelnova	2	0.0070	0.0071
+Genus	Olpidiopsis	2	0.0070	0.0071
+Genus	Periplasma	2	0.0070	0.0071
+Genus	Plasmoverna	2	0.0070	0.0071
+Genus	Sirolpidium	2	0.0070	0.0071
+Genus	Aplanes	1	0.0035	0.0036
+Genus	Aquaperonospora	1	0.0035	0.0036
+Genus	Blastulidium	1	0.0035	0.0036
+Genus	Chlamydomyzium	1	0.0035	0.0036
+Genus	Crypticola	1	0.0035	0.0036
+Genus	Diasporangium	1	0.0035	0.0036
+Genus	Halodaphnea	1	0.0035	0.0036
+Genus	Scoliolegnia	1	0.0035	0.0036
+Genus	Synchrospora	1	0.0035	0.0036
+Genus	Unassigned at this rank	467	1.6393	NA
+Species	Phytophthora nicotianae	943	3.3103	3.3658
+Species	Globisporangium sylvaticum	882	3.0961	3.1481
+Species	Globisporangium irregulare	832	2.9206	2.9696
+Species	Phytophthora cinnamomi	828	2.9066	2.9553
+Species	Phytophthora palmivora	823	2.8890	2.9375
+Species	Globisporangium ultimum	815	2.8610	2.9089
+Species	Pythium aphanidermatum	702	2.4643	2.5056
+Species	Phytophthora capsici	645	2.2642	2.3022
+Species	Pythium sp.	634	2.2256	2.2629
+Species	Phytopythium vexans	628	2.2045	2.2415
+Species	Phytophthora cactorum	537	1.8851	1.9167
+Species	Pythium dissotocum	481	1.6885	1.7168
+Species	Pythium insidiosum	480	1.6850	1.7132
+Species	Globisporangium heterothallicum	473	1.6604	1.6883
+Species	Saprolegnia parasitica	466	1.6358	1.6633
+Species	Phytophthora lacustris	454	1.5937	1.6204
+Species	Pythium oopapillum	379	1.3304	1.3528
+Species	Phytophthora gonapodyides	358	1.2567	1.2778
+Species	Pythium myriotylum	347	1.2181	1.2385
+Species	Phytophthora infestans	333	1.1690	1.1886
+Species	Phytophthora plurivora	326	1.1444	1.1636
+Species	Phytophthora cryptogea	315	1.1058	1.1243
+Species	Globisporangium spinosum	252	0.8846	0.8995
+Species	Phytophthora citrophthora	235	0.8249	0.8388
+Species	Phytophthora x cambivora	222	0.7793	0.7924
+Species	Phytopythium litorale	220	0.7723	0.7852
+Species	Pythium graminicola	208	0.7302	0.7424
+Species	Phytophthora sojae	205	0.7196	0.7317
+Species	Phytophthora sp.	194	0.6810	0.6924
+Species	Pythium inflatum	187	0.6564	0.6675
+Species	Globisporangium attrantheridium	186	0.6529	0.6639
+Species	Phytopythium helicoides	174	0.6108	0.6211
+Species	Phytophthora megasperma	173	0.6073	0.6175
+Species	Globisporangium rostratifingens	171	0.6003	0.6103
+Species	Globisporangium intermedium	169	0.5933	0.6032
+Species	Globisporangium perplexum	165	0.5792	0.5889
+Species	Phytophthora colocasiae	165	0.5792	0.5889
+Species	Saprolegnia ferax	154	0.5406	0.5497
+Species	Saprolegnia diclina	149	0.5230	0.5318
+Species	Albugo candida	148	0.5195	0.5283
+Species	Pythium aff. torulosum	145	0.5090	0.5175
+Species	Pythium lutarium	140	0.4915	0.4997
+Species	Phytophthora multivora	130	0.4563	0.4640
+Species	Phytophthora citricola	129	0.4528	0.4604
+Species	Phytophthora melonis	129	0.4528	0.4604
+Species	Phytophthora meadii	122	0.4283	0.4354
+Species	Pythium aff. dissotocum	120	0.4212	0.4283
+Species	Saprolegnia australis	117	0.4107	0.4176
+Species	Aphanomyces astaci	116	0.4072	0.4140
+Species	Pseudoperonospora cubensis	116	0.4072	0.4140
+Species	Phytophthora drechsleri	112	0.3932	0.3998
+Species	Phytophthora ramorum	107	0.3756	0.3819
+Species	Phytophthora tropicalis	107	0.3756	0.3819
+Species	Globisporangium paroecandrum	106	0.3721	0.3783
+Species	Peronospora variabilis	100	0.3510	0.3569
+Species	Plasmopara viticola	98	0.3440	0.3498
+Species	Pythium acanthicum	98	0.3440	0.3498
+Species	Phytophthora syringae	96	0.3370	0.3426
+Species	Phytophthora pseudocryptogea	95	0.3335	0.3391
+Species	Pythium arrhenomanes	94	0.3300	0.3355
+Species	Pythium torulosum	93	0.3265	0.3319
+Species	Phytophthora chlamydospora	89	0.3124	0.3177
+Species	Pythium coloratum	88	0.3089	0.3141
+Species	Pythium deliense	88	0.3089	0.3141
+Species	Pythium oligandrum	88	0.3089	0.3141
+Species	Pythium catenulatum	87	0.3054	0.3105
+Species	Phytopythium sp.	85	0.2984	0.3034
+Species	Saprolegnia sp.	84	0.2949	0.2998
+Species	Bremia lactucae	83	0.2914	0.2962
+Species	Phytophthora niederhauseri	83	0.2914	0.2962
+Species	Phytophthora inundata	80	0.2808	0.2855
+Species	Phytopythium cucurbitacearum (nom. inval.)	80	0.2808	0.2855
+Species	Hyaloperonospora parasitica	79	0.2773	0.2820
+Species	Phytophthora pseudosyringae	75	0.2633	0.2677
+Species	Globisporangium splendens	74	0.2598	0.2641
+Species	Phytopythium chamaehyphon	74	0.2598	0.2641
+Species	Phytophthora boehmeriae	71	0.2492	0.2534
+Species	Pythium sp. 'group B' DP-2020	71	0.2492	0.2534
+Species	Peronospora belbahrii	70	0.2457	0.2498
+Species	Elongisporangium undulatum	67	0.2352	0.2391
+Species	Globisporangium sp.	66	0.2317	0.2356
+Species	Pythium sulcatum	66	0.2317	0.2356
+Species	Phytopythium mercuriale	65	0.2282	0.2320
+Species	Phytophthora sansomeana	63	0.2212	0.2249
+Species	Phytophthora honggalleglyana	61	0.2141	0.2177
+Species	Globisporangium nodosum	59	0.2071	0.2106
+Species	Hyaloperonospora brassicae	55	0.1931	0.1963
+Species	Phytophthora x alni	55	0.1931	0.1963
+Species	Globisporangium orthogonon	53	0.1860	0.1892
+Species	Phytophthora cajani	52	0.1825	0.1856
+Species	Globisporangium violae	51	0.1790	0.1820
+Species	Phytophthora lateralis	51	0.1790	0.1820
+Species	Phytophthora abietivora	50	0.1755	0.1785
+Species	Phytophthora heveae	50	0.1755	0.1785
+Species	Saprolegnia delica	50	0.1755	0.1785
+Species	Oomycota sp.	49	0.1720	0.1749
+Species	Phytophthora taxon Pgchlamydo	49	0.1720	0.1749
+Species	Globisporangium pleroticum	45	0.1580	0.1606
+Species	Pythium sp. CAL-2011f	45	0.1580	0.1606
+Species	Pythium tracheiphilum	45	0.1580	0.1606
+Species	Achlya sp. (in: oomycetes)	42	0.1474	0.1499
+Species	Aphanomyces invadans	42	0.1474	0.1499
+Species	Phytophthora polonica	42	0.1474	0.1499
+Species	Globisporangium nunn	41	0.1439	0.1463
+Species	Phytophthora bilorbang	41	0.1439	0.1463
+Species	Phytophthora rosacearum	41	0.1439	0.1463
+Species	Phytophthora pini	40	0.1404	0.1428
+Species	Pythium aristosporum	40	0.1404	0.1428
+Species	Pythium pachycaule	40	0.1404	0.1428
+Species	Globisporangium acanthophoron	39	0.1369	0.1392
+Species	Phytopythium citrinum	39	0.1369	0.1392
+Species	Achlya bisexualis	38	0.1334	0.1356
+Species	Phytophthora riparia	38	0.1334	0.1356
+Species	Saprolegnia aenigmatica	38	0.1334	0.1356
+Species	Phytophthora erythroseptica	37	0.1299	0.1321
+Species	Pythium conidiophorum	37	0.1299	0.1321
+Species	Globisporangium carolinianum	36	0.1264	0.1285
+Species	Peronospora arborescens	36	0.1264	0.1285
+Species	Phytophthora asparagi	35	0.1229	0.1249
+Species	Phytophthora quercina	35	0.1229	0.1249
+Species	Pythium diclinum	33	0.1158	0.1178
+Species	Phytophthora amnicola	32	0.1123	0.1142
+Species	Phytophthora botryosa	32	0.1123	0.1142
+Species	Peronospora sparsa	31	0.1088	0.1106
+Species	Phytophthora x vanyenensis	31	0.1088	0.1106
+Species	Phytophthora intercalaris	30	0.1053	0.1071
+Species	Phytophthora kelmanii	30	0.1053	0.1071
+Species	Phytophthora megakarya	30	0.1053	0.1071
+Species	Aphanomyces euteiches	29	0.1018	0.1035
+Species	Elongisporangium anandrum	29	0.1018	0.1035
+Species	Globisporangium middletonii	29	0.1018	0.1035
+Species	Plasmopara halstedii	29	0.1018	0.1035
+Species	Pythium rhizo-oryzae	29	0.1018	0.1035
+Species	Phytophthora vignae	28	0.0983	0.0999
+Species	Phytophthora crassamura	27	0.0948	0.0964
+Species	Phytophthora hedraiandra	27	0.0948	0.0964
+Species	Phytophthora parsiana	27	0.0948	0.0964
+Species	Phytophthora porri	27	0.0948	0.0964
+Species	Pythium kashmirense	27	0.0948	0.0964
+Species	Globisporangium cryptoirregulare	26	0.0913	0.0928
+Species	Peronospora effusa	26	0.0913	0.0928
+Species	Peronospora sp.	26	0.0913	0.0928
+Species	Phytophthora thermophila	26	0.0913	0.0928
+Species	Phytopythium aff. vexans 1 KB-2023	26	0.0913	0.0928
+Species	Pythium monospermum	26	0.0913	0.0928
+Species	Pythium periplocum	26	0.0913	0.0928
+Species	Phytophthora europaea	25	0.0878	0.0892
+Species	Phytophthora nemorosa	24	0.0842	0.0857
+Species	Pythium sp. balticum	24	0.0842	0.0857
+Species	Pythium vanterpoolii	24	0.0842	0.0857
+Species	Globisporangium macrosporum	23	0.0807	0.0821
+Species	Peronospora salviae-officinalis	23	0.0807	0.0821
+Species	Phytophthora gallica	23	0.0807	0.0821
+Species	Phytophthora inflata	23	0.0807	0.0821
+Species	Hyaloperonospora dentariae	22	0.0772	0.0785
+Species	Phytophthora austrocedri	22	0.0772	0.0785
+Species	Phytophthora hibernalis	22	0.0772	0.0785
+Species	Phytophthora irrigata	22	0.0772	0.0785
+Species	Phytophthora litchii	22	0.0772	0.0785
+Species	Phytophthora tentaculata	22	0.0772	0.0785
+Species	Phytophthora uniformis	22	0.0772	0.0785
+Species	Pythium amasculinum	22	0.0772	0.0785
+Species	Pythium tardicrescens	22	0.0772	0.0785
+Species	Globisporangium debaryanum	21	0.0737	0.0750
+Species	Globisporangium glomeratum	21	0.0737	0.0750
+Species	Halophytophthora sp.	21	0.0737	0.0750
+Species	Lagenidium giganteum	21	0.0737	0.0750
+Species	Phytophthora castaneae	21	0.0737	0.0750
+Species	Phytophthora pseudotsugae	21	0.0737	0.0750
+Species	Pythium porphyrae	21	0.0737	0.0750
+Species	Globisporangium mamillatum	20	0.0702	0.0714
+Species	Globisporangium terrestre	20	0.0702	0.0714
+Species	Globisporangium viniferum	20	0.0702	0.0714
+Species	Phytophthora insolita	20	0.0702	0.0714
+Species	Phytophthora mississippiae	20	0.0702	0.0714
+Species	Phytophthora parvispora	20	0.0702	0.0714
+Species	Phytopythium aff. vexans 6 KB-2023	20	0.0702	0.0714
+Species	Aphanomyces laevis	19	0.0667	0.0678
+Species	Globisporangium rhizosaccharum	19	0.0667	0.0678
+Species	Leptolegnia sp.	19	0.0667	0.0678
+Species	Peronosclerospora maydis	19	0.0667	0.0678
+Species	Peronosclerospora philippinensis	19	0.0667	0.0678
+Species	Globisporangium hypogynum	18	0.0632	0.0642
+Species	Phytophthora pluvialis	18	0.0632	0.0642
+Species	Halophytophthora avicenniae	17	0.0597	0.0607
+Species	Phytophthora medicaginis	17	0.0597	0.0607
+Species	Phytophthora mirabilis	17	0.0597	0.0607
+Species	Phytophthora taxon Oaksoil	17	0.0597	0.0607
+Species	Pythium flevoense	17	0.0597	0.0607
+Species	Saprolegnia eccentrica	17	0.0597	0.0607
+Species	Globisporangium nagaii	16	0.0562	0.0571
+Species	Hyaloperonospora erophilae	16	0.0562	0.0571
+Species	Phytophthora virginiana	16	0.0562	0.0571
+Species	Pythium adhaerens	16	0.0562	0.0571
+Species	Pythium sterilum	16	0.0562	0.0571
+Species	Saprolegnia litoralis	16	0.0562	0.0571
+Species	Aphanomyces cochlioides	15	0.0527	0.0535
+Species	Phytophthora chrysanthemi	15	0.0527	0.0535
+Species	Phytophthora frigida	15	0.0527	0.0535
+Species	Phytophthora ilicis	15	0.0527	0.0535
+Species	Phytophthora lacustris x Phytophthora riparia	15	0.0527	0.0535
+Species	Phytophthora medicaginis x Phytophthora cryptogea	15	0.0527	0.0535
+Species	Phytopythium oedochilum	15	0.0527	0.0535
+Species	Pythium periculosum	15	0.0527	0.0535
+Species	Aphanomyces stellatus	14	0.0491	0.0500
+Species	Peronospora trifoliorum	14	0.0491	0.0500
+Species	Phytophthora alticola	14	0.0491	0.0500
+Species	Phytophthora brassicae	14	0.0491	0.0500
+Species	Phytophthora humicola	14	0.0491	0.0500
+Species	Phytophthora psychrophila	14	0.0491	0.0500
+Species	Phytophthora rubi	14	0.0491	0.0500
+Species	Phytopythium aff. vexans	14	0.0491	0.0500
+Species	Pythium longandrum	14	0.0491	0.0500
+Species	Globisporangium minor	13	0.0456	0.0464
+Species	Globisporangium recalcitrans	13	0.0456	0.0464
+Species	Leptolegnia chapmanii	13	0.0456	0.0464
+Species	Peronospora farinosa	13	0.0456	0.0464
+Species	Peronospora viciae	13	0.0456	0.0464
+Species	Phytophthora bishii	13	0.0456	0.0464
+Species	Phytophthora macrochlamydospora	13	0.0456	0.0464
+Species	Phytophthora pisi	13	0.0456	0.0464
+Species	Phytophthora siskiyouensis	13	0.0456	0.0464
+Species	Phytophthora x australasiatica	13	0.0456	0.0464
+Species	Protoachlya paradoxa	13	0.0456	0.0464
+Species	Pseudoperonospora humuli	13	0.0456	0.0464
+Species	Pythium chondricola	13	0.0456	0.0464
+Species	Pythium periilum	13	0.0456	0.0464
+Species	Pythium volutum	13	0.0456	0.0464
+Species	Saprolegnia torulosa	13	0.0456	0.0464
+Species	Aphanomyces sp.	12	0.0421	0.0428
+Species	Globisporangium abappressorium	12	0.0421	0.0428
+Species	Globisporangium cylindrosporum	12	0.0421	0.0428
+Species	Globisporangium rostratum	12	0.0421	0.0428
+Species	Globisporangium uncinulatum	12	0.0421	0.0428
+Species	Halophytophthora batemanensis	12	0.0421	0.0428
+Species	Peronospora destructor	12	0.0421	0.0428
+Species	Phytophthora fragariae	12	0.0421	0.0428
+Species	Phytophthora gregata	12	0.0421	0.0428
+Species	Phytophthora kernoviae	12	0.0421	0.0428
+Species	Phytophthora x heterohybrida	12	0.0421	0.0428
+Species	Phytophthora x multiformis	12	0.0421	0.0428
+Species	Phytopythium aff. vexans 5 KB-2023	12	0.0421	0.0428
+Species	Pythium aquatile	12	0.0421	0.0428
+Species	Pythium sp. C73	12	0.0421	0.0428
+Species	Saprolegnia anisospora	12	0.0421	0.0428
+Species	Achlya klebsiana	11	0.0386	0.0393
+Species	Albugo lepidii	11	0.0386	0.0393
+Species	Aphanomyces repetans	11	0.0386	0.0393
+Species	Globisporangium marsipium	11	0.0386	0.0393
+Species	Halophytophthora vesicula	11	0.0386	0.0393
+Species	Leptolegnia caudata	11	0.0386	0.0393
+Species	Nothophytophthora caduca	11	0.0386	0.0393
+Species	Perofascia lepidii	11	0.0386	0.0393
+Species	Phytophthora borealis	11	0.0386	0.0393
+Species	Phytophthora cf. cryptogea/drechsleri	11	0.0386	0.0393
+Species	Phytophthora clandestina	11	0.0386	0.0393
+Species	Phytophthora fallax	11	0.0386	0.0393
+Species	Phytophthora primulae	11	0.0386	0.0393
+Species	Phytophthora taxon walnut	11	0.0386	0.0393
+Species	Phytophthora trifolii	11	0.0386	0.0393
+Species	Phytopythium montanum	11	0.0386	0.0393
+Species	Plasmopara obducens	11	0.0386	0.0393
+Species	Pythium sp. 'amazonianum'	11	0.0386	0.0393
+Species	Achlya ambisexualis	10	0.0351	0.0357
+Species	Globisporangium acrogynum	10	0.0351	0.0357
+Species	Globisporangium cederbergense	10	0.0351	0.0357
+Species	Globisporangium selbyi	10	0.0351	0.0357
+Species	Peronospora meconopsidis	10	0.0351	0.0357
+Species	Phytophthora acerina	10	0.0351	0.0357
+Species	Phytophthora katsurae	10	0.0351	0.0357
+Species	Phytophthora occultans	10	0.0351	0.0357
+Species	Phytophthora pistaciae	10	0.0351	0.0357
+Species	Phytophthora taxon hungarica	10	0.0351	0.0357
+Species	Phytopythium sp. HSR-2011	10	0.0351	0.0357
+Species	Pythium pyrilobum	10	0.0351	0.0357
+Species	Saprolegnia hypogyna	10	0.0351	0.0357
+Species	Achlya caroliniana	9	0.0316	0.0321
+Species	Albugo occidentalis	9	0.0316	0.0321
+Species	Bremia microspora	9	0.0316	0.0321
+Species	Globisporangium aff. macrosporum	9	0.0316	0.0321
+Species	Globisporangium aff. perplexum	9	0.0316	0.0321
+Species	Globisporangium echinulatum	9	0.0316	0.0321
+Species	Globisporangium mastophorum	9	0.0316	0.0321
+Species	Globisporangium schmitthenneri	9	0.0316	0.0321
+Species	Halophytophthora exoprolifera	9	0.0316	0.0321
+Species	Newbya oligocantha	9	0.0316	0.0321
+Species	Peronospora aestivalis	9	0.0316	0.0321
+Species	Peronospora cristata	9	0.0316	0.0321
+Species	Peronospora tabacina	9	0.0316	0.0321
+Species	Peronospora trifolii-minoris	9	0.0316	0.0321
+Species	Phytophthora arenaria	9	0.0316	0.0321
+Species	Phytophthora capensis	9	0.0316	0.0321
+Species	Phytophthora constricta	9	0.0316	0.0321
+Species	Phytophthora pachypleura	9	0.0316	0.0321
+Species	Phytophthora tyrrhenica	9	0.0316	0.0321
+Species	Phytopythium ostracodes	9	0.0316	0.0321
+Species	Phytopythium sindhum	9	0.0316	0.0321
+Species	Pseudoperonospora sp.	9	0.0316	0.0321
+Species	Pythiogeton ramosum	9	0.0316	0.0321
+Species	Pythium angustatum	9	0.0316	0.0321
+Species	Pythium ornamentatum	9	0.0316	0.0321
+Species	Pythium plurisporium	9	0.0316	0.0321
+Species	Pythium sp. 5 KVS-2023	9	0.0316	0.0321
+Species	Achlya flagellata	8	0.0281	0.0286
+Species	Aphanomyces cladogamus	8	0.0281	0.0286
+Species	Aphanomyces mitsuba	8	0.0281	0.0286
+Species	Bremia sonchicola	8	0.0281	0.0286
+Species	Bremia sp. T74882-2	8	0.0281	0.0286
+Species	Bremia sp. YJC-2015b	8	0.0281	0.0286
+Species	Elongisporangium helicandrum	8	0.0281	0.0286
+Species	Halophytophthora polymorphica	8	0.0281	0.0286
+Species	Hyaloperonospora sp.	8	0.0281	0.0286
+Species	Peronospora arvensis	8	0.0281	0.0286
+Species	Peronospora schachtii	8	0.0281	0.0286
+Species	Peronospora trifolii-hybridi	8	0.0281	0.0286
+Species	Phytophthora castanetorum	8	0.0281	0.0286
+Species	Phytophthora obovoidea	8	0.0281	0.0286
+Species	Phytophthora sp. 'lagoariana'	8	0.0281	0.0286
+Species	Phytophthora sp. 'napoensis'	8	0.0281	0.0286
+Species	Pythium grandisporangium	8	0.0281	0.0286
+Species	Pythium hydnosporum	8	0.0281	0.0286
+Species	Salilagenidium thermophilum	8	0.0281	0.0286
+Species	Saprolegnia salmonis	8	0.0281	0.0286
+Species	Albugo laibachii	7	0.0246	0.0250
+Species	Aphanomyces trifolii	7	0.0246	0.0250
+Species	Cokeria racemosa	7	0.0246	0.0250
+Species	Globisporangium erinaceum	7	0.0246	0.0250
+Species	Globisporangium kunmingense	7	0.0246	0.0250
+Species	Globisporangium longisporangium	7	0.0246	0.0250
+Species	Globisporangium okanoganense	7	0.0246	0.0250
+Species	Globisporangium polymastum	7	0.0246	0.0250
+Species	Globisporangium segnitium	7	0.0246	0.0250
+Species	Haliphthoros milfordensis	7	0.0246	0.0250
+Species	Halophytophthora thermoambigua	7	0.0246	0.0250
+Species	Hyaloperonospora arabidopsidis	7	0.0246	0.0250
+Species	Hyaloperonospora camelinae	7	0.0246	0.0250
+Species	Hyaloperonospora cardamines-laciniatae	7	0.0246	0.0250
+Species	Hyaloperonospora nasturtii-aquatici	7	0.0246	0.0250
+Species	Hyaloperonospora niessleana	7	0.0246	0.0250
+Species	Paralagenidium karlingii	7	0.0246	0.0250
+Species	Peronospora boni-henrici	7	0.0246	0.0250
+Species	Peronospora medicaginis-minimae	7	0.0246	0.0250
+Species	Phytophthora aff. meadii	7	0.0246	0.0250
+Species	Phytophthora agathidicida	7	0.0246	0.0250
+Species	Phytophthora elongata	7	0.0246	0.0250
+Species	Phytophthora fluvialis	7	0.0246	0.0250
+Species	Phytophthora foliorum	7	0.0246	0.0250
+Species	Phytophthora himalsilva	7	0.0246	0.0250
+Species	Phytophthora idaei	7	0.0246	0.0250
+Species	Phytophthora ipomoeae	7	0.0246	0.0250
+Species	Phytophthora mengei	7	0.0246	0.0250
+Species	Phytophthora multivesiculata	7	0.0246	0.0250
+Species	Phytophthora oleae	7	0.0246	0.0250
+Species	Phytophthora quercetorum	7	0.0246	0.0250
+Species	Phytophthora versiformis	7	0.0246	0.0250
+Species	Phytopythium aff. vexans 3 KB-2023	7	0.0246	0.0250
+Species	Phytopythium kandeliae	7	0.0246	0.0250
+Species	Pythium jasmonium	7	0.0246	0.0250
+Species	Saprolegnia bulbosa	7	0.0246	0.0250
+Species	Wilsoniana portulacae	7	0.0246	0.0250
+Species	Aphanomyces frigidophilus	6	0.0211	0.0214
+Species	Aphanomyces helicoides	6	0.0211	0.0214
+Species	Aphanomyces iridis	6	0.0211	0.0214
+Species	Aphanomyces salsuginosus	6	0.0211	0.0214
+Species	Dictyuchus monosporus	6	0.0211	0.0214
+Species	Elongisporangium senticosum	6	0.0211	0.0214
+Species	Globisporangium iwayamae	6	0.0211	0.0214
+Species	Globisporangium polare	6	0.0211	0.0214
+Species	Hyaloperonospora barbareae	6	0.0211	0.0214
+Species	Hyaloperonospora lunariae	6	0.0211	0.0214
+Species	Hyaloperonospora sisymbrii-sophiae	6	0.0211	0.0214
+Species	Peronospora aff. akatsukae	6	0.0211	0.0214
+Species	Peronospora radii	6	0.0211	0.0214
+Species	Phytophthora aff. rosacearum	6	0.0211	0.0214
+Species	Phytophthora condilina	6	0.0211	0.0214
+Species	Phytophthora gondwanensis	6	0.0211	0.0214
+Species	Phytophthora litoralis	6	0.0211	0.0214
+Species	Phytophthora mexicana	6	0.0211	0.0214
+Species	Phytophthora multiplex	6	0.0211	0.0214
+Species	Phytophthora nicotianae x Phytophthora cactorum	6	0.0211	0.0214
+Species	Phytophthora phaseoli	6	0.0211	0.0214
+Species	Phytophthora pinifolia	6	0.0211	0.0214
+Species	Phytophthora pseudocapensis	6	0.0211	0.0214
+Species	Phytophthora richardiae	6	0.0211	0.0214
+Species	Phytophthora stellaris	6	0.0211	0.0214
+Species	Phytophthora taxon raspberry	6	0.0211	0.0214
+Species	Phytophthora viadrina	6	0.0211	0.0214
+Species	Plasmopara destructor	6	0.0211	0.0214
+Species	Protobremia sphaerosperma	6	0.0211	0.0214
+Species	Pythium banihashemianum	6	0.0211	0.0214
+Species	Pythium indigoferae	6	0.0211	0.0214
+Species	Pythium longipapillum	6	0.0211	0.0214
+Species	Pythium sp. AL-2010	6	0.0211	0.0214
+Species	Saprolegnia sp. MNS-2014c	6	0.0211	0.0214
+Species	Saprolegnia terrestris	6	0.0211	0.0214
+Species	[Peronospora] diplotaxidis	5	0.0176	0.0178
+Species	Achlya prolifera	5	0.0176	0.0178
+Species	Albugo ipomoeae-panduratae	5	0.0176	0.0178
+Species	Aphanomyces sp. EBK-2013	5	0.0176	0.0178
+Species	Bremia centaureae	5	0.0176	0.0178
+Species	Bremia ovata	5	0.0176	0.0178
+Species	Bremia sp.	5	0.0176	0.0178
+Species	Cokeria radiosa	5	0.0176	0.0178
+Species	Dictyuchus pseudodictyon	5	0.0176	0.0178
+Species	Elongisporangium disparispinum	5	0.0176	0.0178
+Species	Eurychasma dicksonii	5	0.0176	0.0178
+Species	Globisporangium apiculatum	5	0.0176	0.0178
+Species	Globisporangium coniferarum	5	0.0176	0.0178
+Species	Globisporangium spiculum	5	0.0176	0.0178
+Species	Globisporangium stipitatum	5	0.0176	0.0178
+Species	Globisporangium takayamanum	5	0.0176	0.0178
+Species	Globisporangium tenuihyphum	5	0.0176	0.0178
+Species	Hyaloperonospora hesperidis	5	0.0176	0.0178
+Species	Hyaloperonospora thlaspeos-perfoliati	5	0.0176	0.0178
+Species	Lagenidium juracyae	5	0.0176	0.0178
+Species	Nothophytophthora chlamydospora	5	0.0176	0.0178
+Species	Peronospora coronillae	5	0.0176	0.0178
+Species	Peronospora corydalis	5	0.0176	0.0178
+Species	Peronospora lamii	5	0.0176	0.0178
+Species	Peronospora meliloti	5	0.0176	0.0178
+Species	Peronospora rumicis	5	0.0176	0.0178
+Species	Phytophthora arecae	5	0.0176	0.0178
+Species	Phytophthora emzansi	5	0.0176	0.0178
+Species	Phytophthora gemini	5	0.0176	0.0178
+Species	Phytophthora mekongensis	5	0.0176	0.0178
+Species	Phytophthora moyootj	5	0.0176	0.0178
+Species	Phytophthora obscura	5	0.0176	0.0178
+Species	Phytophthora ornamentata	5	0.0176	0.0178
+Species	Phytophthora pseudopolonica	5	0.0176	0.0178
+Species	Phytophthora quininea	5	0.0176	0.0178
+Species	Phytophthora sp. 'pseudocryptogea x kelmanii'	5	0.0176	0.0178
+Species	Phytophthora sp. AG43	5	0.0176	0.0178
+Species	Phytophthora sp. bitahaiensis	5	0.0176	0.0178
+Species	Phytophthora sp. cuyabensis	5	0.0176	0.0178
+Species	Phytophthora sp. PNS-2014	5	0.0176	0.0178
+Species	Phytophthora sp. thermophilum	5	0.0176	0.0178
+Species	Phytophthora stricta	5	0.0176	0.0178
+Species	Phytophthora theobromicola	5	0.0176	0.0178
+Species	Phytophthora uliginosa	5	0.0176	0.0178
+Species	Phytopythium carbonicum	5	0.0176	0.0178
+Species	Plasmopara wilsonii	5	0.0176	0.0178
+Species	Plectospira myriandra	5	0.0176	0.0178
+Species	Pseudoperonospora cannabina	5	0.0176	0.0178
+Species	Pustula sp.	5	0.0176	0.0178
+Species	Pythiogeton zizaniae	5	0.0176	0.0178
+Species	Pythiopsis terrestris	5	0.0176	0.0178
+Species	Pythium aff. diclinum	5	0.0176	0.0178
+Species	Pythium contiguanum	5	0.0176	0.0178
+Species	Pythium salpingophorum	5	0.0176	0.0178
+Species	Pythium sp. 'cluster B2A'	5	0.0176	0.0178
+Species	Saprolegnia longicaulis	5	0.0176	0.0178
+Species	Sommerstorffia spinosa	5	0.0176	0.0178
+Species	Thraustotheca clavata	5	0.0176	0.0178
+Species	Wilsoniana amaranthi	5	0.0176	0.0178
+Species	[Pythium] brassicae (nom. inval.)	4	0.0140	0.0143
+Species	Achlya recurva	4	0.0140	0.0143
+Species	Albugo trianthemae	4	0.0140	0.0143
+Species	Aphanomyces sinensis	4	0.0140	0.0143
+Species	Aplanopsis terrestris	4	0.0140	0.0143
+Species	Atkinsiella dubia	4	0.0140	0.0143
+Species	Geolegnia helicoides	4	0.0140	0.0143
+Species	Globisporangium camurandrum	4	0.0140	0.0143
+Species	Globisporangium kandovanense	4	0.0140	0.0143
+Species	Globisporangium multisporum	4	0.0140	0.0143
+Species	Globisporangium radiosum	4	0.0140	0.0143
+Species	Globisporangium yorkense	4	0.0140	0.0143
+Species	Halophytophthora brevisporangia	4	0.0140	0.0143
+Species	Hyaloperonospora erucae	4	0.0140	0.0143
+Species	Hyaloperonospora galligena	4	0.0140	0.0143
+Species	Hyaloperonospora thlaspeos-arvensis	4	0.0140	0.0143
+Species	Lagenidium sp. PWL-2010b	4	0.0140	0.0143
+Species	Lagenidium sp. PWL-2010e	4	0.0140	0.0143
+Species	Lagenidium vilelae (nom. inval.)	4	0.0140	0.0143
+Species	Newbya apiculata	4	0.0140	0.0143
+Species	Newbya oblongata	4	0.0140	0.0143
+Species	Nothophytophthora valdiviana	4	0.0140	0.0143
+Species	Peronospora alta	4	0.0140	0.0143
+Species	Peronospora choii	4	0.0140	0.0143
+Species	Peronospora gaponenkoae	4	0.0140	0.0143
+Species	Peronospora grisea	4	0.0140	0.0143
+Species	Peronospora plantaginis	4	0.0140	0.0143
+Species	Peronospora pulveracea	4	0.0140	0.0143
+Species	Phragmosporangium uniseriatum	4	0.0140	0.0143
+Species	Phytophthora aff. syringae	4	0.0140	0.0143
+Species	Phytophthora aquimorbida	4	0.0140	0.0143
+Species	Phytophthora captiosa	4	0.0140	0.0143
+Species	Phytophthora caryae	4	0.0140	0.0143
+Species	Phytophthora cooljarloo	4	0.0140	0.0143
+Species	Phytophthora fragariaefolia	4	0.0140	0.0143
+Species	Phytophthora gloveri	4	0.0140	0.0143
+Species	Phytophthora macilentosa	4	0.0140	0.0143
+Species	Phytophthora mediterranea	4	0.0140	0.0143
+Species	Phytophthora nagaii	4	0.0140	0.0143
+Species	Phytophthora procera	4	0.0140	0.0143
+Species	Phytophthora pseudocitrophthora	4	0.0140	0.0143
+Species	Phytophthora pseudorosacearum	4	0.0140	0.0143
+Species	Phytophthora sp. 'thermophila x amnicola'	4	0.0140	0.0143
+Species	Phytophthora sp. 'zentmyerii x Peru4-like'	4	0.0140	0.0143
+Species	Phytophthora sp. 1 EEO-2011	4	0.0140	0.0143
+Species	Phytophthora sp. 3 EEO-2011	4	0.0140	0.0143
+Species	Phytophthora sp. CAL-2011b	4	0.0140	0.0143
+Species	Phytophthora x serendipita	4	0.0140	0.0143
+Species	Phytophthora x stagnum	4	0.0140	0.0143
+Species	Phytophthora x taiwanensis	4	0.0140	0.0143
+Species	Phytopythium aff. vexans 12 KB-2023	4	0.0140	0.0143
+Species	Phytopythium delawarense	4	0.0140	0.0143
+Species	Phytopythium fagopyri	4	0.0140	0.0143
+Species	Phytopythium iriomotense	4	0.0140	0.0143
+Species	Phytopythium megacarpum	4	0.0140	0.0143
+Species	Phytopythium palingenes	4	0.0140	0.0143
+Species	Plasmopara nivea	4	0.0140	0.0143
+Species	Pseudoperonospora celtidis	4	0.0140	0.0143
+Species	Pseudoperonospora urticae	4	0.0140	0.0143
+Species	Pythiogeton uniforme	4	0.0140	0.0143
+Species	Pythiopsis cymosa	4	0.0140	0.0143
+Species	Pythium aff. heterothallicum	4	0.0140	0.0143
+Species	Pythium dissimile	4	0.0140	0.0143
+Species	Pythium junctum	4	0.0140	0.0143
+Species	Pythium pectinolyticum	4	0.0140	0.0143
+Species	Pythium sp. MNS-2014a	4	0.0140	0.0143
+Species	Pythium sp. PPRI8411	4	0.0140	0.0143
+Species	Pythium sp. rooibos 2	4	0.0140	0.0143
+Species	Pythium zingiberis	4	0.0140	0.0143
+Species	Saprolegnia asterophora	4	0.0140	0.0143
+Species	Saprolegnia glomerata	4	0.0140	0.0143
+Species	Saprolegnia maragheica	4	0.0140	0.0143
+Species	Saprolegnia sp. 5 SR-2014	4	0.0140	0.0143
+Species	Saprolegnia subterranea	4	0.0140	0.0143
+Species	Saprolegnia turfosa	4	0.0140	0.0143
+Species	[Peronospora] lepidii-sativi	3	0.0105	0.0107
+Species	Achlya colorata	3	0.0105	0.0107
+Species	Achlya conspicua	3	0.0105	0.0107
+Species	Achlya intricata	3	0.0105	0.0107
+Species	Achlya papillosa	3	0.0105	0.0107
+Species	Achlya primoachlya	3	0.0105	0.0107
+Species	Achlya sp. 1 HM-2018	3	0.0105	0.0107
+Species	Aphanomyces brasiliensis	3	0.0105	0.0107
+Species	Aphanomyces fennicus	3	0.0105	0.0107
+Species	Bremia cf. cirsii	3	0.0105	0.0107
+Species	Bremia cirsii	3	0.0105	0.0107
+Species	Bremia saussureae	3	0.0105	0.0107
+Species	Brevilegnia longicaulis	3	0.0105	0.0107
+Species	Cokeria sparrowii	3	0.0105	0.0107
+Species	Dictyuchus sp.	3	0.0105	0.0107
+Species	Elongisporangium dimorphum	3	0.0105	0.0107
+Species	Elongisporangium prolatum	3	0.0105	0.0107
+Species	Globisporangium barbulae	3	0.0105	0.0107
+Species	Globisporangium canariense	3	0.0105	0.0107
+Species	Globisporangium commune	3	0.0105	0.0107
+Species	Globisporangium megalacanthum	3	0.0105	0.0107
+Species	Globisporangium monoclinum	3	0.0105	0.0107
+Species	Globisporangium oryzicola	3	0.0105	0.0107
+Species	Globisporangium paddicum	3	0.0105	0.0107
+Species	Globisporangium parvum	3	0.0105	0.0107
+Species	Halocrusticida parasitica	3	0.0105	0.0107
+Species	Halophytophthora insularis	3	0.0105	0.0107
+Species	Halophytophthora lusitanica	3	0.0105	0.0107
+Species	Hyaloperonospora arabidis-alpinae	3	0.0105	0.0107
+Species	Hyaloperonospora cochleariae	3	0.0105	0.0107
+Species	Hyaloperonospora isatidis	3	0.0105	0.0107
+Species	Hyaloperonospora nasturtii-montanii	3	0.0105	0.0107
+Species	Hyaloperonospora rorippae-islandicae	3	0.0105	0.0107
+Species	Lagenidium sp.	3	0.0105	0.0107
+Species	Leptolegnia eccentrica	3	0.0105	0.0107
+Species	Myzocytiopsis humana	3	0.0105	0.0107
+Species	Paraperonospora tanaceti	3	0.0105	0.0107
+Species	Peronosclerospora sacchari	3	0.0105	0.0107
+Species	Peronospora a	3	0.0105	0.0107
+Species	Peronospora agrestis	3	0.0105	0.0107
+Species	Peronospora alsinearum	3	0.0105	0.0107
+Species	Peronospora apula	3	0.0105	0.0107
+Species	Peronospora astragalina	3	0.0105	0.0107
+Species	Peronospora bulbocapni	3	0.0105	0.0107
+Species	Peronospora capsici	3	0.0105	0.0107
+Species	Peronospora chionodendron	3	0.0105	0.0107
+Species	Peronospora chrysosplenii	3	0.0105	0.0107
+Species	Peronospora elsholtziae	3	0.0105	0.0107
+Species	Peronospora erucastri	3	0.0105	0.0107
+Species	Peronospora ervi	3	0.0105	0.0107
+Species	Peronospora ficariae	3	0.0105	0.0107
+Species	Peronospora fulva	3	0.0105	0.0107
+Species	Peronospora hiemalis	3	0.0105	0.0107
+Species	Peronospora manshurica	3	0.0105	0.0107
+Species	Peronospora mayorii	3	0.0105	0.0107
+Species	Peronospora mesembryanthemi	3	0.0105	0.0107
+Species	Peronospora ornithopi	3	0.0105	0.0107
+Species	Peronospora potentillae-sterilis	3	0.0105	0.0107
+Species	Peronospora sordida	3	0.0105	0.0107
+Species	Peronospora sp. YJC-2009a	3	0.0105	0.0107
+Species	Peronospora stellariae-aquaticae	3	0.0105	0.0107
+Species	Peronospora trifolii-repentis	3	0.0105	0.0107
+Species	Peronosporaceae sp.	3	0.0105	0.0107
+Species	Phytophthora amaranthi	3	0.0105	0.0107
+Species	Phytophthora asiatica	3	0.0105	0.0107
+Species	Phytophthora balyanboodja	3	0.0105	0.0107
+Species	Phytophthora boodjera	3	0.0105	0.0107
+Species	Phytophthora brevifila	3	0.0105	0.0107
+Species	Phytophthora catenulata	3	0.0105	0.0107
+Species	Phytophthora chesapeakensis	3	0.0105	0.0107
+Species	Phytophthora falcata	3	0.0105	0.0107
+Species	Phytophthora gibbosa	3	0.0105	0.0107
+Species	Phytophthora hydrogena	3	0.0105	0.0107
+Species	Phytophthora iranica	3	0.0105	0.0107
+Species	Phytophthora kwongonina	3	0.0105	0.0107
+Species	Phytophthora ohioensis (nom. inval.)	3	0.0105	0.0107
+Species	Phytophthora pseudofrigida	3	0.0105	0.0107
+Species	Phytophthora sp. 2 EEO-2011	3	0.0105	0.0107
+Species	Phytophthora sp. 2_WS	3	0.0105	0.0107
+Species	Phytophthora sp. AL-2010b	3	0.0105	0.0107
+Species	Phytophthora sp. sylvatica	3	0.0105	0.0107
+Species	Phytophthora sp. unk3	3	0.0105	0.0107
+Species	Phytophthora sp. WM-2018a	3	0.0105	0.0107
+Species	Phytophthora sp. x botryosa-like	3	0.0105	0.0107
+Species	Phytophthora sp. xHennops	3	0.0105	0.0107
+Species	Phytophthora sp. xWS	3	0.0105	0.0107
+Species	Phytophthora sumatera	3	0.0105	0.0107
+Species	Phytophthora taxon banihashemiana	3	0.0105	0.0107
+Species	Phytophthora thermophila x Phytophthora amnicola	3	0.0105	0.0107
+Species	Phytophthora tubulina	3	0.0105	0.0107
+Species	Phytopythium aff. vexans 11 KB-2023	3	0.0105	0.0107
+Species	Phytopythium paucipapillatum	3	0.0105	0.0107
+Species	Phytopythium sp. 1 ROH-2015	3	0.0105	0.0107
+Species	Plasmopara euphrasiae	3	0.0105	0.0107
+Species	Plasmopara praetermissa	3	0.0105	0.0107
+Species	Plasmopara pusilla	3	0.0105	0.0107
+Species	Pseudoperonospora sp. T80689-1	3	0.0105	0.0107
+Species	Pustula junggarensis	3	0.0105	0.0107
+Species	Pustula xinyuanensis	3	0.0105	0.0107
+Species	Pythiaceae sp. PHY1	3	0.0105	0.0107
+Species	Pythiogeton abundans	3	0.0105	0.0107
+Species	Pythiopsis irregularis	3	0.0105	0.0107
+Species	Pythium aff. dictyosporum	3	0.0105	0.0107
+Species	Pythium brachiatum	3	0.0105	0.0107
+Species	Pythium cf. salpingophorum/conidiophorum	3	0.0105	0.0107
+Species	Pythium lycopersici	3	0.0105	0.0107
+Species	Pythium phragmitis	3	0.0105	0.0107
+Species	Pythium rishiriense	3	0.0105	0.0107
+Species	Pythium scleroteichum	3	0.0105	0.0107
+Species	Pythium sp. 2 KVS-2023	3	0.0105	0.0107
+Species	Pythium sp. B65	3	0.0105	0.0107
+Species	Pythium sp. E44	3	0.0105	0.0107
+Species	Pythium sp. EBK-2013a	3	0.0105	0.0107
+Species	Pythium sp. OPU1449	3	0.0105	0.0107
+Species	Pythium sp. unique1sub3	3	0.0105	0.0107
+Species	Salilagenidium callinectes	3	0.0105	0.0107
+Species	Salisapilia epistomia	3	0.0105	0.0107
+Species	Salispina spinosa	3	0.0105	0.0107
+Species	Saprolegnia blelhamensis	3	0.0105	0.0107
+Species	Saprolegnia megasperma	3	0.0105	0.0107
+Species	Saprolegnia milanezii	3	0.0105	0.0107
+Species	Saprolegnia monilifera	3	0.0105	0.0107
+Species	Saprolegnia monoica	3	0.0105	0.0107
+Species	Saprolegnia racemosa	3	0.0105	0.0107
+Species	Saprolegnia semihypogyna	3	0.0105	0.0107
+Species	Saprolegnia sp. MNS-2014d	3	0.0105	0.0107
+Species	Saprolegniaceae sp.	3	0.0105	0.0107
+Species	Saprolegniales sp.	3	0.0105	0.0107
+Species	[Peronospora] crispula	2	0.0070	0.0071
+Species	Achlya americana	2	0.0070	0.0071
+Species	Achlya aquatica	2	0.0070	0.0071
+Species	Achlya crenulata	2	0.0070	0.0071
+Species	Achlya dubia	2	0.0070	0.0071
+Species	Achlya glomerata	2	0.0070	0.0071
+Species	Achlya heterosexualis	2	0.0070	0.0071
+Species	Achlya orion	2	0.0070	0.0071
+Species	Achlya ornata	2	0.0070	0.0071
+Species	Achlya proliferoides	2	0.0070	0.0071
+Species	Albugo hohenheimia	2	0.0070	0.0071
+Species	Albugo rorippae	2	0.0070	0.0071
+Species	Albugo sp.	2	0.0070	0.0071
+Species	Albugo sp. YJC-2010a	2	0.0070	0.0071
+Species	Aphanomyces piscicida	2	0.0070	0.0071
+Species	Aphanomyces scaber	2	0.0070	0.0071
+Species	Apodachlya brachynema	2	0.0070	0.0071
+Species	Basidiophora entospora	2	0.0070	0.0071
+Species	Beakesia catenulata	2	0.0070	0.0071
+Species	Bremia sp. T74882-3	2	0.0070	0.0071
+Species	Bremia taraxaci	2	0.0070	0.0071
+Species	Brevilegnia milaneziana	2	0.0070	0.0071
+Species	Brevilegnia minutandra	2	0.0070	0.0071
+Species	Dictyuchus sp. 1 HM-2018	2	0.0070	0.0071
+Species	Dictyuchus sp. 2 HM-2018	2	0.0070	0.0071
+Species	Dictyuchus sp. 4 HM-2018	2	0.0070	0.0071
+Species	Dictyuchus sp. 5 HM-2018	2	0.0070	0.0071
+Species	Dictyuchus sp. 6 HM-2018	2	0.0070	0.0071
+Species	Dictyuchus sterilis	2	0.0070	0.0071
+Species	Globisporangium aff. iwayamae	2	0.0070	0.0071
+Species	Globisporangium alternatum	2	0.0070	0.0071
+Species	Globisporangium bifurcatum	2	0.0070	0.0071
+Species	Globisporangium buismaniae	2	0.0070	0.0071
+Species	Globisporangium campanulatum	2	0.0070	0.0071
+Species	Globisporangium emineosum	2	0.0070	0.0071
+Species	Globisporangium izadpanahii	2	0.0070	0.0071
+Species	Globisporangium pyrioosporum	2	0.0070	0.0071
+Species	Globisporangium sp. FS-2022b	2	0.0070	0.0071
+Species	Globisporangium sp. MT-2021b	2	0.0070	0.0071
+Species	Globisporangium sp. MT-2021c	2	0.0070	0.0071
+Species	Globisporangium sp. MT-2021d	2	0.0070	0.0071
+Species	Globisporangium sp. MT-2021e	2	0.0070	0.0071
+Species	Globisporangium urmianum	2	0.0070	0.0071
+Species	Halophytophthora cf. 'thermoambigua'	2	0.0070	0.0071
+Species	Halophytophthora fluviatilis	2	0.0070	0.0071
+Species	Halophytophthora sp. GHJ-2017a	2	0.0070	0.0071
+Species	Haptoglossa sp.	2	0.0070	0.0071
+Species	Hyaloperonospora arabidis-glabrae	2	0.0070	0.0071
+Species	Hyaloperonospora berteroae	2	0.0070	0.0071
+Species	Hyaloperonospora cheiranthi	2	0.0070	0.0071
+Species	Hyaloperonospora daughtreyae	2	0.0070	0.0071
+Species	Hyaloperonospora drabae	2	0.0070	0.0071
+Species	Hyaloperonospora lobulariae	2	0.0070	0.0071
+Species	Hyaloperonospora nesliae	2	0.0070	0.0071
+Species	Hyaloperonospora norvegica	2	0.0070	0.0071
+Species	Hyaloperonospora sisymbrii-loeselii	2	0.0070	0.0071
+Species	Hyaloperonospora teesdaliae	2	0.0070	0.0071
+Species	Hyaloperonospora tribulina	2	0.0070	0.0071
+Species	Lagena ausuennarstadhirensis	2	0.0070	0.0071
+Species	Lagenidium deciduum	2	0.0070	0.0071
+Species	Lagenidium sp. LM-2012b	2	0.0070	0.0071
+Species	Lagenidium sp. SLG-2014a	2	0.0070	0.0071
+Species	Leptolegnia sp. MNS-2014a	2	0.0070	0.0071
+Species	Myzocytiopsis glutinospora	2	0.0070	0.0071
+Species	Myzocytiopsis sp. venatrix	2	0.0070	0.0071
+Species	Newbya androgyna	2	0.0070	0.0071
+Species	Nothophytophthora amphigynosa	2	0.0070	0.0071
+Species	Nothophytophthora lirii	2	0.0070	0.0071
+Species	Novotelnova scorzonerae	2	0.0070	0.0071
+Species	Olpidiopsis sp.	2	0.0070	0.0071
+Species	Paralagenidium sp.	2	0.0070	0.0071
+Species	Periplasma isogametum	2	0.0070	0.0071
+Species	Perofascia sp.	2	0.0070	0.0071
+Species	Peronospora agrimoniae	2	0.0070	0.0071
+Species	Peronospora argemones	2	0.0070	0.0071
+Species	Peronospora arthurii	2	0.0070	0.0071
+Species	Peronospora cf. ducometii	2	0.0070	0.0071
+Species	Peronospora chenopodii-polyspermi	2	0.0070	0.0071
+Species	Peronospora chlorae	2	0.0070	0.0071
+Species	Peronospora conglomerata	2	0.0070	0.0071
+Species	Peronospora digitalis	2	0.0070	0.0071
+Species	Peronospora esulae	2	0.0070	0.0071
+Species	Peronospora glechomae	2	0.0070	0.0071
+Species	Peronospora illyrica	2	0.0070	0.0071
+Species	Peronospora lata	2	0.0070	0.0071
+Species	Peronospora lathyrina	2	0.0070	0.0071
+Species	Peronospora lotorum	2	0.0070	0.0071
+Species	Peronospora matthiolae	2	0.0070	0.0071
+Species	Peronospora myosotidis	2	0.0070	0.0071
+Species	Peronospora palustris	2	0.0070	0.0071
+Species	Peronospora potentillae	2	0.0070	0.0071
+Species	Peronospora pseudostellariae	2	0.0070	0.0071
+Species	Peronospora psylliicola	2	0.0070	0.0071
+Species	Peronospora ranunculi	2	0.0070	0.0071
+Species	Peronospora salviae-pratensis	2	0.0070	0.0071
+Species	Peronospora saturejae-hortensis	2	0.0070	0.0071
+Species	Peronospora seminaria	2	0.0070	0.0071
+Species	Peronospora somniferi	2	0.0070	0.0071
+Species	Peronospora sp. AT-2013	2	0.0070	0.0071
+Species	Peronospora sp. CSS-2020a	2	0.0070	0.0071
+Species	Peronospora sp. MA-Fungi 27841	2	0.0070	0.0071
+Species	Peronospora stellariae-uliginosae	2	0.0070	0.0071
+Species	Peronospora stigmaticola	2	0.0070	0.0071
+Species	Peronospora subglobosa	2	0.0070	0.0071
+Species	Peronospora tetragonolobi	2	0.0070	0.0071
+Species	Peronospora trifolii-alpestris	2	0.0070	0.0071
+Species	Peronospora trigonellae	2	0.0070	0.0071
+Species	Peronospora violacea	2	0.0070	0.0071
+Species	Phytophthora acaciivora	2	0.0070	0.0071
+Species	Phytophthora aff. botryosa	2	0.0070	0.0071
+Species	Phytophthora amnicola x Phytophthora moyootj	2	0.0070	0.0071
+Species	Phytophthora andina	2	0.0070	0.0071
+Species	Phytophthora attenuata	2	0.0070	0.0071
+Species	Phytophthora cf. Kunnunara	2	0.0070	0.0071
+Species	Phytophthora cf. niederhauseri	2	0.0070	0.0071
+Species	Phytophthora cf. Peru 4	2	0.0070	0.0071
+Species	Phytophthora cf. virginiana	2	0.0070	0.0071
+Species	Phytophthora cichorii	2	0.0070	0.0071
+Species	Phytophthora cocois	2	0.0070	0.0071
+Species	Phytophthora curvata	2	0.0070	0.0071
+Species	Phytophthora estuarina	2	0.0070	0.0071
+Species	Phytophthora fluvialis x Phytophthora moyootj	2	0.0070	0.0071
+Species	Phytophthora heteromorpha	2	0.0070	0.0071
+Species	Phytophthora indonesiensis	2	0.0070	0.0071
+Species	Phytophthora javanensis	2	0.0070	0.0071
+Species	Phytophthora morindae	2	0.0070	0.0071
+Species	Phytophthora moyootj x Phytophthora fluvialis	2	0.0070	0.0071
+Species	Phytophthora moyootj x Phytophthora litoralis	2	0.0070	0.0071
+Species	Phytophthora moyootj x Phytophthora thermophila	2	0.0070	0.0071
+Species	Phytophthora multipapillata	2	0.0070	0.0071
+Species	Phytophthora nimia	2	0.0070	0.0071
+Species	Phytophthora panamensis	2	0.0070	0.0071
+Species	Phytophthora rhizophorae	2	0.0070	0.0071
+Species	Phytophthora sp. 'aureomontensis'	2	0.0070	0.0071
+Species	Phytophthora sp. 'cactorum/hedraiandra SP-2013'	2	0.0070	0.0071
+Species	Phytophthora sp. 'personii'	2	0.0070	0.0071
+Species	Phytophthora sp. 'pocumtuck'	2	0.0070	0.0071
+Species	Phytophthora sp. 'x pseudocryptogea-like'	2	0.0070	0.0071
+Species	Phytophthora sp. 1 KS-2013	2	0.0070	0.0071
+Species	Phytophthora sp. 8 TIB-2007	2	0.0070	0.0071
+Species	Phytophthora sp. Banksia/Lancelin/AUS	2	0.0070	0.0071
+Species	Phytophthora sp. BF4	2	0.0070	0.0071
+Species	Phytophthora sp. BFA	2	0.0070	0.0071
+Species	Phytophthora sp. citIX	2	0.0070	0.0071
+Species	Phytophthora sp. CL8	2	0.0070	0.0071
+Species	Phytophthora sp. P14	2	0.0070	0.0071
+Species	Phytophthora sp. TIB-2012	2	0.0070	0.0071
+Species	Phytophthora sp. WAMItV-2012	2	0.0070	0.0071
+Species	Phytophthora sp. WH-2012	2	0.0070	0.0071
+Species	Phytophthora sp. x Kunnunara-like	2	0.0070	0.0071
+Species	Phytophthora sp. x meadii-like	2	0.0070	0.0071
+Species	Phytophthora sp. x virginiana-like-1	2	0.0070	0.0071
+Species	Phytophthora sp. x virginiana-like-2	2	0.0070	0.0071
+Species	Phytophthora sp. x virginiana-like-3	2	0.0070	0.0071
+Species	Phytophthora taxon paludosa	2	0.0070	0.0071
+Species	Phytophthora taxon Sisuluriver	2	0.0070	0.0071
+Species	Phytophthora tenuimura	2	0.0070	0.0071
+Species	Phytophthora terminalis	2	0.0070	0.0071
+Species	Phytophthora vacuola	2	0.0070	0.0071
+Species	Phytophthora valdiviana	2	0.0070	0.0071
+Species	Phytophthora vulcanica	2	0.0070	0.0071
+Species	Phytophthora x incrassata	2	0.0070	0.0071
+Species	Phytophthora x pelgrandis	2	0.0070	0.0071
+Species	Phytopythium aff. vexans 7 KB-2023	2	0.0070	0.0071
+Species	Phytopythium boreale	2	0.0070	0.0071
+Species	Phytopythium cf. citrinum A PB-2013	2	0.0070	0.0071
+Species	Phytopythium cf. citrinum B PB-2013	2	0.0070	0.0071
+Species	Phytopythium mirpurense	2	0.0070	0.0071
+Species	Phytopythium sp. 1 PB-2013	2	0.0070	0.0071
+Species	Phytopythium sp. CAL-2011b	2	0.0070	0.0071
+Species	Pilasporangium apinafurcum	2	0.0070	0.0071
+Species	Pilasporangium sp.	2	0.0070	0.0071
+Species	Plasmopara echinaceae	2	0.0070	0.0071
+Species	Plasmopara geranii-sylvatici	2	0.0070	0.0071
+Species	Pustula cancriniae	2	0.0070	0.0071
+Species	Pythiaceae sp.	2	0.0070	0.0071
+Species	Pythiogeton oblongilobum	2	0.0070	0.0071
+Species	Pythiogeton proliferatum	2	0.0070	0.0071
+Species	Pythiogeton puliense	2	0.0070	0.0071
+Species	Pythiogeton sp.	2	0.0070	0.0071
+Species	Pythiopsis humphreyana	2	0.0070	0.0071
+Species	Pythium aff. hypogynum	2	0.0070	0.0071
+Species	Pythium amaminum	2	0.0070	0.0071
+Species	Pythium apleroticum	2	0.0070	0.0071
+Species	Pythium biforme	2	0.0070	0.0071
+Species	Pythium capillosum	2	0.0070	0.0071
+Species	Pythium destruens	2	0.0070	0.0071
+Species	Pythium heteroogonium	2	0.0070	0.0071
+Species	Pythium sp. 'Clade A'	2	0.0070	0.0071
+Species	Pythium sp. 'cluster B1D'	2	0.0070	0.0071
+Species	Pythium sp. 'strain 1-9'	2	0.0070	0.0071
+Species	Pythium sp. 1 MNS-2013	2	0.0070	0.0071
+Species	Pythium sp. 2 ROH-2015	2	0.0070	0.0071
+Species	Pythium sp. 4 KVS-2023	2	0.0070	0.0071
+Species	Pythium sp. B35	2	0.0070	0.0071
+Species	Pythium sp. BP 2013i	2	0.0070	0.0071
+Species	Pythium sp. C31	2	0.0070	0.0071
+Species	Pythium sp. C70	2	0.0070	0.0071
+Species	Pythium sp. D37	2	0.0070	0.0071
+Species	Pythium sp. E20	2	0.0070	0.0071
+Species	Pythium sp. E26	2	0.0070	0.0071
+Species	Pythium sp. E41	2	0.0070	0.0071
+Species	Pythium sp. EBK-2013b	2	0.0070	0.0071
+Species	Pythium sp. F-1306	2	0.0070	0.0071
+Species	Pythium sp. group F	2	0.0070	0.0071
+Species	Pythium sp. group G	2	0.0070	0.0071
+Species	Pythium sp. KB-2023a	2	0.0070	0.0071
+Species	Pythium sp. P19300/1/3	2	0.0070	0.0071
+Species	Pythium sp. P3862	2	0.0070	0.0071
+Species	Pythium sp. P8201	2	0.0070	0.0071
+Species	Pythium sp. SB10-1	2	0.0070	0.0071
+Species	Pythium sp. unique1	2	0.0070	0.0071
+Species	Pythium sp. unique2	2	0.0070	0.0071
+Species	Pythium utonaiense	2	0.0070	0.0071
+Species	Salisapilia sapeloensis	2	0.0070	0.0071
+Species	Salisapilia tartarea	2	0.0070	0.0071
+Species	Saprolegnia anomalies	2	0.0070	0.0071
+Species	Saprolegnia cf. ferax	2	0.0070	0.0071
+Species	Saprolegnia furcata	2	0.0070	0.0071
+Species	Saprolegnia polymorpha	2	0.0070	0.0071
+Species	Saprolegnia sp. 5 EE-2023	2	0.0070	0.0071
+Species	Saprolegnia sp. MNS-2014b	2	0.0070	0.0071
+Species	Saprolegnia sp. SAP1	2	0.0070	0.0071
+Species	Saprolegniales sp. EBK-2013b	2	0.0070	0.0071
+Species	Sommerstorffia sp. JR-2024a	2	0.0070	0.0071
+Species	Wilsoniana sp.	2	0.0070	0.0071
+Species	[Peronospora] sisymbrii-officinalis	1	0.0035	0.0036
+Species	Achlya debaryana	1	0.0035	0.0036
+Species	Achlya diffusa	1	0.0035	0.0036
+Species	Achlya hypogyna	1	0.0035	0.0036
+Species	Achlya oviparvula	1	0.0035	0.0036
+Species	Achlya sp. 1 KVS-2023	1	0.0035	0.0036
+Species	Achlya sp. 2 HM-2018	1	0.0035	0.0036
+Species	Achlya sp. 2 KVS-2023	1	0.0035	0.0036
+Species	Achlya sp. 3 KVS-2023	1	0.0035	0.0036
+Species	Achlya sp. 4 KVS-2023	1	0.0035	0.0036
+Species	Achlya sp. 5 KVS-2023	1	0.0035	0.0036
+Species	Achlya sp. BKKU1005	1	0.0035	0.0036
+Species	Achlya sp. BKKU1009	1	0.0035	0.0036
+Species	Achlya sp. BKKU1117	1	0.0035	0.0036
+Species	Achlya sp. BKKU1118	1	0.0035	0.0036
+Species	Achlya sp. BKKU1127	1	0.0035	0.0036
+Species	Achlya sp. BKKU1134	1	0.0035	0.0036
+Species	Achlya sp. EM31E	1	0.0035	0.0036
+Species	Achlya sp. LB35	1	0.0035	0.0036
+Species	Achlya sp. LB63	1	0.0035	0.0036
+Species	Achlya sp. LM2109	1	0.0035	0.0036
+Species	Achlya sp. MNS-2014a	1	0.0035	0.0036
+Species	Achlya sp. O3EG1	1	0.0035	0.0036
+Species	Achlya sp. strain S3	1	0.0035	0.0036
+Species	Achlya sp. SW-2023a	1	0.0035	0.0036
+Species	Achlya sp. YC	1	0.0035	0.0036
+Species	Achlya spiralis	1	0.0035	0.0036
+Species	Achlya stellata	1	0.0035	0.0036
+Species	Achlya treleaseana	1	0.0035	0.0036
+Species	Achlya truncatiformis	1	0.0035	0.0036
+Species	Albugo arenosa	1	0.0035	0.0036
+Species	Albugo cf. leimonios	1	0.0035	0.0036
+Species	Albugo koreana	1	0.0035	0.0036
+Species	Albugo leimonios	1	0.0035	0.0036
+Species	Albugo sp. 22A	1	0.0035	0.0036
+Species	Albugo sp. 28A	1	0.0035	0.0036
+Species	Albugo sp. 34A	1	0.0035	0.0036
+Species	Albugo sp. FR0046008	1	0.0035	0.0036
+Species	Albugo sp. FR0046009	1	0.0035	0.0036
+Species	Albugo sp. FR0046013	1	0.0035	0.0036
+Species	Albugo sp. FR0046014	1	0.0035	0.0036
+Species	Albugo sp. FR0046019	1	0.0035	0.0036
+Species	Albugo sp. FR0046021	1	0.0035	0.0036
+Species	Albugo sp. FR0046022	1	0.0035	0.0036
+Species	Albugo tropica	1	0.0035	0.0036
+Species	Aphanomyces cf. keratinophilus	1	0.0035	0.0036
+Species	Aphanomyces macrosporus	1	0.0035	0.0036
+Species	Aphanomyces raphani	1	0.0035	0.0036
+Species	Aphanomyces sp. 84-1240	1	0.0035	0.0036
+Species	Aphanomyces sp. APH2	1	0.0035	0.0036
+Species	Aphanomyces sp. APH3	1	0.0035	0.0036
+Species	Aphanomyces sp. AW-I	1	0.0035	0.0036
+Species	Aphanomyces sp. AW-J	1	0.0035	0.0036
+Species	Aphanomyces sp. AW-L	1	0.0035	0.0036
+Species	Aphanomyces sp. CBS 583.85	1	0.0035	0.0036
+Species	Aphanomyces sp. F-1293	1	0.0035	0.0036
+Species	Aphanomyces sp. JN-9	1	0.0035	0.0036
+Species	Aphanomyces sp. LIT7	1	0.0035	0.0036
+Species	Aphanomyces sp. MCA 3058	1	0.0035	0.0036
+Species	Aphanomyces sp. NJM 0903	1	0.0035	0.0036
+Species	Aphanomyces sp. NJM 0904	1	0.0035	0.0036
+Species	Aphanomyces sp. NJM 0905	1	0.0035	0.0036
+Species	Aphanomyces sp. NJM 0906	1	0.0035	0.0036
+Species	Aphanomyces sp. NJM 0907	1	0.0035	0.0036
+Species	Aphanomyces sp. NVA	1	0.0035	0.0036
+Species	Aphanomyces sp. PWL-2010	1	0.0035	0.0036
+Species	Aphanomyces sp. TF33	1	0.0035	0.0036
+Species	Aphanomyces sp. WLL-2012	1	0.0035	0.0036
+Species	Aplanes androgynus	1	0.0035	0.0036
+Species	Apodachlya minima	1	0.0035	0.0036
+Species	Aquaperonospora taiwanensis	1	0.0035	0.0036
+Species	Blastulidium paedophthorum	1	0.0035	0.0036
+Species	Bremia aff. lagoseridis GLM68027	1	0.0035	0.0036
+Species	Bremia elliptica	1	0.0035	0.0036
+Species	Bremia itoana	1	0.0035	0.0036
+Species	Bremia lapsanae	1	0.0035	0.0036
+Species	Bremia picridis	1	0.0035	0.0036
+Species	Bremia sp. IK-2025a	1	0.0035	0.0036
+Species	Bremia sp. T74882-1	1	0.0035	0.0036
+Species	Bremia sp. T74927-1	1	0.0035	0.0036
+Species	Bremia tulasnei	1	0.0035	0.0036
+Species	Brevilegnia macrospora	1	0.0035	0.0036
+Species	Brevilegnia sp.	1	0.0035	0.0036
+Species	Brevilegnia unisperma	1	0.0035	0.0036
+Species	Calycofera cryptica	1	0.0035	0.0036
+Species	Calycofera operculata	1	0.0035	0.0036
+Species	Chlamydomyzium dictyuchoides	1	0.0035	0.0036
+Species	Crypticola clavulifera	1	0.0035	0.0036
+Species	Diasporangium sp. CCD-2007	1	0.0035	0.0036
+Species	Dictyuchus sp. 10 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 11 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 12 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 13 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 14 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 3 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 7 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 8 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. 9 HM-2018	1	0.0035	0.0036
+Species	Dictyuchus sp. BP-S2	1	0.0035	0.0036
+Species	Dictyuchus sp. JVS-2012	1	0.0035	0.0036
+Species	Elongisporangium aff. undulatum	1	0.0035	0.0036
+Species	Elongisporangium cf. anandrum	1	0.0035	0.0036
+Species	Elongisporangium sp. AK190205	1	0.0035	0.0036
+Species	Elongisporangium sp. Hoang Lien	1	0.0035	0.0036
+Species	Globisporangium aff. canariense OW1707	1	0.0035	0.0036
+Species	Globisporangium aff. cederbergense	1	0.0035	0.0036
+Species	Globisporangium aff. polymastum	1	0.0035	0.0036
+Species	Globisporangium aff. rostratum	1	0.0035	0.0036
+Species	Globisporangium breve	1	0.0035	0.0036
+Species	Globisporangium capense	1	0.0035	0.0036
+Species	Globisporangium cystogenes	1	0.0035	0.0036
+Species	Globisporangium ershadii	1	0.0035	0.0036
+Species	Globisporangium iranense	1	0.0035	0.0036
+Species	Globisporangium lacustre	1	0.0035	0.0036
+Species	Globisporangium lucens	1	0.0035	0.0036
+Species	Globisporangium ornacarpum	1	0.0035	0.0036
+Species	Globisporangium pengfuense	1	0.0035	0.0036
+Species	Globisporangium proliferatum	1	0.0035	0.0036
+Species	Globisporangium regulare	1	0.0035	0.0036
+Species	Globisporangium solare	1	0.0035	0.0036
+Species	Globisporangium sp. FS-2021a	1	0.0035	0.0036
+Species	Globisporangium sp. FS-2021b	1	0.0035	0.0036
+Species	Globisporangium sp. KC-2014	1	0.0035	0.0036
+Species	Globisporangium sp. MA-2018a	1	0.0035	0.0036
+Species	Globisporangium sp. MT-2021a	1	0.0035	0.0036
+Species	Globisporangium sp. ZN-2023a	1	0.0035	0.0036
+Species	Globisporangium wuhanense	1	0.0035	0.0036
+Species	Haliphthoros sp. IPMB 1402	1	0.0035	0.0036
+Species	Haliphthoros sp. NJM 0143	1	0.0035	0.0036
+Species	Haliphthoros sp. NJM 0440	1	0.0035	0.0036
+Species	Haliphthoros sp. NJM 0443	1	0.0035	0.0036
+Species	Halodaphnea panulirata	1	0.0035	0.0036
+Species	Halophytophthora celeris	1	0.0035	0.0036
+Species	Halophytophthora frigida	1	0.0035	0.0036
+Species	Halophytophthora lateralis	1	0.0035	0.0036
+Species	Halophytophthora macrosporangia	1	0.0035	0.0036
+Species	Halophytophthora porrigovesica	1	0.0035	0.0036
+Species	Halophytophthora sinuata	1	0.0035	0.0036
+Species	Halophytophthora sp. 1 KC-2014	1	0.0035	0.0036
+Species	Halophytophthora sp. 2 KC-2014	1	0.0035	0.0036
+Species	Halophytophthora sp. 3 KC-2014	1	0.0035	0.0036
+Species	Halophytophthora sp. EMTD10	1	0.0035	0.0036
+Species	Halophytophthora sp. EMTD12	1	0.0035	0.0036
+Species	Halophytophthora sp. EMTS19	1	0.0035	0.0036
+Species	Halophytophthora sp. LT6430	1	0.0035	0.0036
+Species	Halophytophthora sp. LT6465	1	0.0035	0.0036
+Species	Halophytophthora sp. NBRC 32444	1	0.0035	0.0036
+Species	Halophytophthora sp. NBRC 32445	1	0.0035	0.0036
+Species	Halophytophthora sp. Portugal9	1	0.0035	0.0036
+Species	Halophytophthora sp. WA26-091603	1	0.0035	0.0036
+Species	Haptoglossa sp. SL20	1	0.0035	0.0036
+Species	Haptoglossa sp. SL32	1	0.0035	0.0036
+Species	Haptoglossa zoospora	1	0.0035	0.0036
+Species	Hyaloperonospora aff. parasitica	1	0.0035	0.0036
+Species	Hyaloperonospora cardamines-enneaphyllos	1	0.0035	0.0036
+Species	Hyaloperonospora cardaminopsidis	1	0.0035	0.0036
+Species	Hyaloperonospora iberidis	1	0.0035	0.0036
+Species	Hyaloperonospora malyi	1	0.0035	0.0036
+Species	Hyaloperonospora nasturtii-palustris	1	0.0035	0.0036
+Species	Hyaloperonospora praecox	1	0.0035	0.0036
+Species	Hyaloperonospora sp. KUS-F24009	1	0.0035	0.0036
+Species	Lagenidium albertoi	1	0.0035	0.0036
+Species	Lagenidium caudatum	1	0.0035	0.0036
+Species	Lagenidium sp. CICR-Hop	1	0.0035	0.0036
+Species	Lagenidium sp. LC1	1	0.0035	0.0036
+Species	Lagenidium sp. MTLA-04	1	0.0035	0.0036
+Species	Lagenidium sp. MTLA-05	1	0.0035	0.0036
+Species	Lagenidium sp. PWL-2010a	1	0.0035	0.0036
+Species	Lagenidium sp. PWL-2010d	1	0.0035	0.0036
+Species	Lagenidium sp. PWL-2010f	1	0.0035	0.0036
+Species	Lagenidium sp. PWL-2010g	1	0.0035	0.0036
+Species	Lagenidium sp. PWL-2010h	1	0.0035	0.0036
+Species	Lagenidium sp. PWL-2010i	1	0.0035	0.0036
+Species	Lagenidium sp. PWL-2011a	1	0.0035	0.0036
+Species	Lagenidium sp. SL10	1	0.0035	0.0036
+Species	Lagenidium sp. SL23	1	0.0035	0.0036
+Species	Lagenidium sp. SLG-2014b	1	0.0035	0.0036
+Species	Lagenidium sp. strain LEV5863	1	0.0035	0.0036
+Species	Lagenidium sp. T75142-1	1	0.0035	0.0036
+Species	Leptolegnia sp. CAL-2011b	1	0.0035	0.0036
+Species	Leptolegnia sp. CBS 177.86	1	0.0035	0.0036
+Species	Leptolegnia sp. JVS-2012	1	0.0035	0.0036
+Species	Leptolegnia sp. K08	1	0.0035	0.0036
+Species	Leptolegnia sp. PSCR0503	1	0.0035	0.0036
+Species	Leptolegnia sp. SAP0772	1	0.0035	0.0036
+Species	Leptolegnia sp. SAP248	1	0.0035	0.0036
+Species	Leptolegnia sp. SP	1	0.0035	0.0036
+Species	Leptolegnia sp. SR-2014	1	0.0035	0.0036
+Species	Leptolegnia sp. SW-2023a	1	0.0035	0.0036
+Species	Leptolegnia sp. VI04813	1	0.0035	0.0036
+Species	Myzocytiopsis osiris	1	0.0035	0.0036
+Species	Myzocytiopsis vermicola	1	0.0035	0.0036
+Species	Newbya dichotoma	1	0.0035	0.0036
+Species	Newbya sp.	1	0.0035	0.0036
+Species	Newbya spinosa	1	0.0035	0.0036
+Species	Nothophytophthora intricata	1	0.0035	0.0036
+Species	Nothophytophthora irlandica	1	0.0035	0.0036
+Species	Nothophytophthora sp. 'caduca-like'	1	0.0035	0.0036
+Species	Nothophytophthora sp. 'caduca-like2'	1	0.0035	0.0036
+Species	Nothophytophthora vietnamensis	1	0.0035	0.0036
+Species	Oomycete sp. BEA-2010	1	0.0035	0.0036
+Species	Oomycetes sp. KF-2015	1	0.0035	0.0036
+Species	Oomycetes sp. NF-4	1	0.0035	0.0036
+Species	Paralagenidium sp. MTLA-26	1	0.0035	0.0036
+Species	Paraperonospora leptosperma	1	0.0035	0.0036
+Species	Peronosclerospora australiensis	1	0.0035	0.0036
+Species	Peronosclerospora miscanthi	1	0.0035	0.0036
+Species	Peronosclerospora noblei	1	0.0035	0.0036
+Species	Peronosclerospora sargae	1	0.0035	0.0036
+Species	Peronosclerospora sorghi	1	0.0035	0.0036
+Species	Peronospora aconiti	1	0.0035	0.0036
+Species	Peronospora aff. claytoniae	1	0.0035	0.0036
+Species	Peronospora aff. potentillae	1	0.0035	0.0036
+Species	Peronospora aff. ranunculi	1	0.0035	0.0036
+Species	Peronospora alpicola	1	0.0035	0.0036
+Species	Peronospora aparines	1	0.0035	0.0036
+Species	Peronospora aquatica	1	0.0035	0.0036
+Species	Peronospora aquilegiicola	1	0.0035	0.0036
+Species	Peronospora arenariae	1	0.0035	0.0036
+Species	Peronospora asperuginis	1	0.0035	0.0036
+Species	Peronospora bicolor	1	0.0035	0.0036
+Species	Peronospora brevibrachia	1	0.0035	0.0036
+Species	Peronospora calotheca	1	0.0035	0.0036
+Species	Peronospora campestris	1	0.0035	0.0036
+Species	Peronospora cf. fagopyri MK-2015	1	0.0035	0.0036
+Species	Peronospora cf. viciae	1	0.0035	0.0036
+Species	Peronospora chenopodii-ambrosioidis	1	0.0035	0.0036
+Species	Peronospora claytoniae	1	0.0035	0.0036
+Species	Peronospora clinopodii	1	0.0035	0.0036
+Species	Peronospora cyparissiae	1	0.0035	0.0036
+Species	Peronospora dicentrae	1	0.0035	0.0036
+Species	Peronospora eranthidis	1	0.0035	0.0036
+Species	Peronospora fidelia	1	0.0035	0.0036
+Species	Peronospora flava	1	0.0035	0.0036
+Species	Peronospora gei	1	0.0035	0.0036
+Species	Peronospora gracilis	1	0.0035	0.0036
+Species	Peronospora greenei	1	0.0035	0.0036
+Species	Peronospora holostei	1	0.0035	0.0036
+Species	Peronospora jagei	1	0.0035	0.0036
+Species	Peronospora knautiae	1	0.0035	0.0036
+Species	Peronospora kochiae-scopariae	1	0.0035	0.0036
+Species	Peronospora krungthepopsis	1	0.0035	0.0036
+Species	Peronospora kuewa	1	0.0035	0.0036
+Species	Peronospora lacrimoidea	1	0.0035	0.0036
+Species	Peronospora lanceolatae	1	0.0035	0.0036
+Species	Peronospora lathyri-verni	1	0.0035	0.0036
+Species	Peronospora litoralis	1	0.0035	0.0036
+Species	Peronospora mahi	1	0.0035	0.0036
+Species	Peronospora medicaginis-orbicularis	1	0.0035	0.0036
+Species	Peronospora microspora	1	0.0035	0.0036
+Species	Peronospora minor	1	0.0035	0.0036
+Species	Peronospora myosuri	1	0.0035	0.0036
+Species	Peronospora narbonensis	1	0.0035	0.0036
+Species	Peronospora oblatispora	1	0.0035	0.0036
+Species	Peronospora obscura	1	0.0035	0.0036
+Species	Peronospora orobi	1	0.0035	0.0036
+Species	Peronospora parva	1	0.0035	0.0036
+Species	Peronospora paula	1	0.0035	0.0036
+Species	Peronospora perillae	1	0.0035	0.0036
+Species	Peronospora petricosa	1	0.0035	0.0036
+Species	Peronospora pisi	1	0.0035	0.0036
+Species	Peronospora polycarpi	1	0.0035	0.0036
+Species	Peronospora polygoni	1	0.0035	0.0036
+Species	Peronospora ranunculi-sardoi	1	0.0035	0.0036
+Species	Peronospora sagittaria	1	0.0035	0.0036
+Species	Peronospora saxifragae	1	0.0035	0.0036
+Species	Peronospora sepium	1	0.0035	0.0036
+Species	Peronospora sherardiae	1	0.0035	0.0036
+Species	Peronospora silvatica	1	0.0035	0.0036
+Species	Peronospora silvestris	1	0.0035	0.0036
+Species	Peronospora sp. 1217402	1	0.0035	0.0036
+Species	Peronospora sp. AM-2006	1	0.0035	0.0036
+Species	Peronospora sp. Aquilegia	1	0.0035	0.0036
+Species	Peronospora sp. BPI893224	1	0.0035	0.0036
+Species	Peronospora sp. C1	1	0.0035	0.0036
+Species	Peronospora sp. D2	1	0.0035	0.0036
+Species	Peronospora sp. DAR45530	1	0.0035	0.0036
+Species	Peronospora sp. DML84	1	0.0035	0.0036
+Species	Peronospora sp. E1	1	0.0035	0.0036
+Species	Peronospora sp. E3	1	0.0035	0.0036
+Species	Peronospora sp. F1	1	0.0035	0.0036
+Species	Peronospora sp. F2	1	0.0035	0.0036
+Species	Peronospora sp. FLDM-1	1	0.0035	0.0036
+Species	Peronospora sp. G2	1	0.0035	0.0036
+Species	Peronospora sp. GG133	1	0.0035	0.0036
+Species	Peronospora sp. GG56	1	0.0035	0.0036
+Species	Peronospora sp. GG99	1	0.0035	0.0036
+Species	Peronospora sp. HOH HUH961	1	0.0035	0.0036
+Species	Peronospora sp. HV22.3F	1	0.0035	0.0036
+Species	Peronospora sp. HV27.1F-27.3	1	0.0035	0.0036
+Species	Peronospora sp. HV2908	1	0.0035	0.0036
+Species	Peronospora sp. HV2939	1	0.0035	0.0036
+Species	Peronospora sp. HV48.3F	1	0.0035	0.0036
+Species	Peronospora sp. HV938	1	0.0035	0.0036
+Species	Peronospora sp. HV956	1	0.0035	0.0036
+Species	Peronospora sp. isolate 079401,55 (BR)	1	0.0035	0.0036
+Species	Peronospora sp. isolate 079403,57 (BR)	1	0.0035	0.0036
+Species	Peronospora sp. isolate 079405,59 (BR)	1	0.0035	0.0036
+Species	Peronospora sp. isolate UASWS0236	1	0.0035	0.0036
+Species	Peronospora sp. isolate UASWS0237	1	0.0035	0.0036
+Species	Peronospora sp. isolate UASWS0238	1	0.0035	0.0036
+Species	Peronospora sp. isolate UASWS0239	1	0.0035	0.0036
+Species	Peronospora sp. isolate UASWS0240	1	0.0035	0.0036
+Species	Peronospora sp. KUS-F26431	1	0.0035	0.0036
+Species	Peronospora sp. MA-Fungi27993	1	0.0035	0.0036
+Species	Peronospora sp. MG1796	1	0.0035	0.0036
+Species	Peronospora sp. MG1797	1	0.0035	0.0036
+Species	Peronospora sp. Ng2011	1	0.0035	0.0036
+Species	Peronospora sp. S4	1	0.0035	0.0036
+Species	Peronospora sp. S6	1	0.0035	0.0036
+Species	Peronospora sp. S6-2	1	0.0035	0.0036
+Species	Peronospora sp. S7	1	0.0035	0.0036
+Species	Peronospora sp. S7-2	1	0.0035	0.0036
+Species	Peronospora sp. SMK 20438	1	0.0035	0.0036
+Species	Peronospora sp. UASWS0010	1	0.0035	0.0036
+Species	Peronospora sp. UASWS0245	1	0.0035	0.0036
+Species	Peronospora sp. UASWS0254	1	0.0035	0.0036
+Species	Peronospora sp. UF0651	1	0.0035	0.0036
+Species	Peronospora statices	1	0.0035	0.0036
+Species	Peronospora teucrii	1	0.0035	0.0036
+Species	Peronospora tranzscheliana	1	0.0035	0.0036
+Species	Peronospora trifolii-arvensis	1	0.0035	0.0036
+Species	Peronospora trigonotidis	1	0.0035	0.0036
+Species	Peronospora trivialis	1	0.0035	0.0036
+Species	Peronospora valerianellae	1	0.0035	0.0036
+Species	Peronospora verbenae	1	0.0035	0.0036
+Species	Peronospora violae	1	0.0035	0.0036
+Species	Peronospora wawawaiana	1	0.0035	0.0036
+Species	Peronosporaceae sp. CX	1	0.0035	0.0036
+Species	Phytophthora aff. asparagi	1	0.0035	0.0036
+Species	Phytophthora aff. capsici	1	0.0035	0.0036
+Species	Phytophthora aff. humicola	1	0.0035	0.0036
+Species	Phytophthora aff. parsiana	1	0.0035	0.0036
+Species	Phytophthora aff. primulae	1	0.0035	0.0036
+Species	Phytophthora aff. sansomeana	1	0.0035	0.0036
+Species	Phytophthora afrocarpa	1	0.0035	0.0036
+Species	Phytophthora aleatoria	1	0.0035	0.0036
+Species	Phytophthora alpina	1	0.0035	0.0036
+Species	Phytophthora amamensis	1	0.0035	0.0036
+Species	Phytophthora angustata	1	0.0035	0.0036
+Species	Phytophthora aquae-cooljarloo	1	0.0035	0.0036
+Species	Phytophthora aysenensis	1	0.0035	0.0036
+Species	Phytophthora borneensis	1	0.0035	0.0036
+Species	Phytophthora cacuminis	1	0.0035	0.0036
+Species	Phytophthora calida	1	0.0035	0.0036
+Species	Phytophthora caput-medusae	1	0.0035	0.0036
+Species	Phytophthora cathayensis	1	0.0035	0.0036
+Species	Phytophthora celebensis	1	0.0035	0.0036
+Species	Phytophthora celeris	1	0.0035	0.0036
+Species	Phytophthora cf. 'kelmania'	1	0.0035	0.0036
+Species	Phytophthora cf. attenuata 2	1	0.0035	0.0036
+Species	Phytophthora cf. attenuata 3	1	0.0035	0.0036
+Species	Phytophthora cf. botryosa	1	0.0035	0.0036
+Species	Phytophthora cf. citricola/pini	1	0.0035	0.0036
+Species	Phytophthora cf. fluvialis hybrid VHS29992	1	0.0035	0.0036
+Species	Phytophthora cf. gregata	1	0.0035	0.0036
+Species	Phytophthora cf. Hennops	1	0.0035	0.0036
+Species	Phytophthora cf. insolita	1	0.0035	0.0036
+Species	Phytophthora cf. inundata D0S1P25	1	0.0035	0.0036
+Species	Phytophthora cf. lacustris NJG-2014	1	0.0035	0.0036
+Species	Phytophthora cf. meadii 2	1	0.0035	0.0036
+Species	Phytophthora cf. parsiana	1	0.0035	0.0036
+Species	Phytophthora cf. quininea	1	0.0035	0.0036
+Species	Phytophthora cf. rosacearum	1	0.0035	0.0036
+Species	Phytophthora cf. sp. bitahaiensis	1	0.0035	0.0036
+Species	Phytophthora cf. sp. sylvatica 1	1	0.0035	0.0036
+Species	Phytophthora cf. sp. sylvatica 2	1	0.0035	0.0036
+Species	Phytophthora cf. sp. sylvatica 3	1	0.0035	0.0036
+Species	Phytophthora cf. sylvatica	1	0.0035	0.0036
+Species	Phytophthora cf. thermophila hybrid DH106	1	0.0035	0.0036
+Species	Phytophthora cf. tropicalis	1	0.0035	0.0036
+Species	Phytophthora cf. tropicalis 2	1	0.0035	0.0036
+Species	Phytophthora cuyabensis	1	0.0035	0.0036
+Species	Phytophthora cyperi	1	0.0035	0.0036
+Species	Phytophthora dauci	1	0.0035	0.0036
+Species	Phytophthora debattistii	1	0.0035	0.0036
+Species	Phytophthora docyniae	1	0.0035	0.0036
+Species	Phytophthora fagacearum	1	0.0035	0.0036
+Species	Phytophthora flexuosa	1	0.0035	0.0036
+Species	Phytophthora formosa	1	0.0035	0.0036
+Species	Phytophthora frigidophila	1	0.0035	0.0036
+Species	Phytophthora himalayensis	1	0.0035	0.0036
+Species	Phytophthora humicola x Phytophthora inundata	1	0.0035	0.0036
+Species	Phytophthora insulinativitatica	1	0.0035	0.0036
+Species	Phytophthora intricata	1	0.0035	0.0036
+Species	Phytophthora japonensis	1	0.0035	0.0036
+Species	Phytophthora kelmanii x Phytophthora sansomeana	1	0.0035	0.0036
+Species	Phytophthora lilii	1	0.0035	0.0036
+Species	Phytophthora ludoviciana	1	0.0035	0.0036
+Species	Phytophthora mammiformis	1	0.0035	0.0036
+Species	Phytophthora marrasii	1	0.0035	0.0036
+Species	Phytophthora montana	1	0.0035	0.0036
+Species	Phytophthora multiglobulosa	1	0.0035	0.0036
+Species	Phytophthora novae-guineae	1	0.0035	0.0036
+Species	Phytophthora oblonga	1	0.0035	0.0036
+Species	Phytophthora oreophila	1	0.0035	0.0036
+Species	Phytophthora penetrans	1	0.0035	0.0036
+Species	Phytophthora personensis	1	0.0035	0.0036
+Species	Phytophthora podocarpi	1	0.0035	0.0036
+Species	Phytophthora prodigiosa	1	0.0035	0.0036
+Species	Phytophthora pseudokernoviae	1	0.0035	0.0036
+Species	Phytophthora pseudolactucae	1	0.0035	0.0036
+Species	Phytophthora pyriformis	1	0.0035	0.0036
+Species	Phytophthora scandinavica	1	0.0035	0.0036
+Species	Phytophthora sinensis	1	0.0035	0.0036
+Species	Phytophthora sp. 'amnicola x chlamydospora'	1	0.0035	0.0036
+Species	Phytophthora sp. 'awatangi'	1	0.0035	0.0036
+Species	Phytophthora sp. 'bilorbang-like2'	1	0.0035	0.0036
+Species	Phytophthora sp. 'cadmea'	1	0.0035	0.0036
+Species	Phytophthora sp. 'cf. Grenada 3'	1	0.0035	0.0036
+Species	Phytophthora sp. 'Clade06b PT1'	1	0.0035	0.0036
+Species	Phytophthora sp. 'germisporangia'	1	0.0035	0.0036
+Species	Phytophthora sp. 'guadalupesoil'	1	0.0035	0.0036
+Species	Phytophthora sp. 'juniperis'	1	0.0035	0.0036
+Species	Phytophthora sp. 'mugwort'	1	0.0035	0.0036
+Species	Phytophthora sp. 'oakpath'	1	0.0035	0.0036
+Species	Phytophthora sp. 'P16855'	1	0.0035	0.0036
+Species	Phytophthora sp. 'parsiana-Taxon A'	1	0.0035	0.0036
+Species	Phytophthora sp. 'parsiana-Taxon B'	1	0.0035	0.0036
+Species	Phytophthora sp. 'paulensis'	1	0.0035	0.0036
+Species	Phytophthora sp. 'pseudocapsici'	1	0.0035	0.0036
+Species	Phytophthora sp. 'thermophila x gonapodyides'	1	0.0035	0.0036
+Species	Phytophthora sp. 'x 4'	1	0.0035	0.0036
+Species	Phytophthora sp. 'x Clade09a1 PT1'	1	0.0035	0.0036
+Species	Phytophthora sp. 'x crassamura-like'	1	0.0035	0.0036
+Species	Phytophthora sp. 'x Hennops'	1	0.0035	0.0036
+Species	Phytophthora sp. 'x WS'	1	0.0035	0.0036
+Species	Phytophthora sp. 'xsalinaslettuce'	1	0.0035	0.0036
+Species	Phytophthora sp. 1 TIB-2013	1	0.0035	0.0036
+Species	Phytophthora sp. 1-21-1	1	0.0035	0.0036
+Species	Phytophthora sp. 160_1670-11	1	0.0035	0.0036
+Species	Phytophthora sp. 1931	1	0.0035	0.0036
+Species	Phytophthora sp. 2 ROH-2015	1	0.0035	0.0036
+Species	Phytophthora sp. 2-04B	1	0.0035	0.0036
+Species	Phytophthora sp. 23J7	1	0.0035	0.0036
+Species	Phytophthora sp. 4 FFL-2008	1	0.0035	0.0036
+Species	Phytophthora sp. 58_MC-38	1	0.0035	0.0036
+Species	Phytophthora sp. 6 TIB-2007	1	0.0035	0.0036
+Species	Phytophthora sp. 62169-00	1	0.0035	0.0036
+Species	Phytophthora sp. 64	1	0.0035	0.0036
+Species	Phytophthora sp. 65	1	0.0035	0.0036
+Species	Phytophthora sp. 77-231	1	0.0035	0.0036
+Species	Phytophthora sp. 80213-91	1	0.0035	0.0036
+Species	Phytophthora sp. 91-112	1	0.0035	0.0036
+Species	Phytophthora sp. 92-207	1	0.0035	0.0036
+Species	Phytophthora sp. AL-2010a	1	0.0035	0.0036
+Species	Phytophthora sp. AL-2010d	1	0.0035	0.0036
+Species	Phytophthora sp. AL-2010e	1	0.0035	0.0036
+Species	Phytophthora sp. alticola	1	0.0035	0.0036
+Species	Phytophthora sp. APC001	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-10A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-1A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-1B	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-1C	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-1D	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-2A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-2B	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-3A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-5A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-6A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-6B	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-6C	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-8A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-8B	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-8C	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-9A	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-9B	1	0.0035	0.0036
+Species	Phytophthora sp. AUS-9E	1	0.0035	0.0036
+Species	Phytophthora sp. B-6	1	0.0035	0.0036
+Species	Phytophthora sp. B163	1	0.0035	0.0036
+Species	Phytophthora sp. BF1	1	0.0035	0.0036
+Species	Phytophthora sp. BF3	1	0.0035	0.0036
+Species	Phytophthora sp. BF36	1	0.0035	0.0036
+Species	Phytophthora sp. BFK	1	0.0035	0.0036
+Species	Phytophthora sp. BFR	1	0.0035	0.0036
+Species	Phytophthora sp. BLW NRA	1	0.0035	0.0036
+Species	Phytophthora sp. BLW71	1	0.0035	0.0036
+Species	Phytophthora sp. boodjera	1	0.0035	0.0036
+Species	Phytophthora sp. BR514	1	0.0035	0.0036
+Species	Phytophthora sp. BUX1	1	0.0035	0.0036
+Species	Phytophthora sp. BUX2	1	0.0035	0.0036
+Species	Phytophthora sp. canthium	1	0.0035	0.0036
+Species	Phytophthora sp. cc2124	1	0.0035	0.0036
+Species	Phytophthora sp. CCH-2009a	1	0.0035	0.0036
+Species	Phytophthora sp. CH-2012	1	0.0035	0.0036
+Species	Phytophthora sp. CH98ASP061	1	0.0035	0.0036
+Species	Phytophthora sp. CH98ASP063	1	0.0035	0.0036
+Species	Phytophthora sp. CH98ASP069	1	0.0035	0.0036
+Species	Phytophthora sp. CJL-2014	1	0.0035	0.0036
+Species	Phytophthora sp. CL9-1	1	0.0035	0.0036
+Species	Phytophthora sp. Costa Rica 1	1	0.0035	0.0036
+Species	Phytophthora sp. Costa Rica 11	1	0.0035	0.0036
+Species	Phytophthora sp. Costa Rica 3	1	0.0035	0.0036
+Species	Phytophthora sp. Costa Rica 5	1	0.0035	0.0036
+Species	Phytophthora sp. Costa Rica 8	1	0.0035	0.0036
+Species	Phytophthora sp. EBK-2013	1	0.0035	0.0036
+Species	Phytophthora sp. EL-8701	1	0.0035	0.0036
+Species	Phytophthora sp. ex Drimys winteri	1	0.0035	0.0036
+Species	Phytophthora sp. forestsoil-like	1	0.0035	0.0036
+Species	Phytophthora sp. frigida	1	0.0035	0.0036
+Species	Phytophthora sp. GD2f	1	0.0035	0.0036
+Species	Phytophthora sp. GD4b	1	0.0035	0.0036
+Species	Phytophthora sp. GD4f	1	0.0035	0.0036
+Species	Phytophthora sp. glovera	1	0.0035	0.0036
+Species	Phytophthora sp. Grenada 1	1	0.0035	0.0036
+Species	Phytophthora sp. Grenada 2	1	0.0035	0.0036
+Species	Phytophthora sp. Grenada 3	1	0.0035	0.0036
+Species	Phytophthora sp. GUCC0313	1	0.0035	0.0036
+Species	Phytophthora sp. H-6/02	1	0.0035	0.0036
+Species	Phytophthora sp. H-7/02	1	0.0035	0.0036
+Species	Phytophthora sp. H-8/02	1	0.0035	0.0036
+Species	Phytophthora sp. hybrid type 1	1	0.0035	0.0036
+Species	Phytophthora sp. IBL/2011/5/1/1	1	0.0035	0.0036
+Species	Phytophthora sp. IBL/2012/7	1	0.0035	0.0036
+Species	Phytophthora sp. isolate 1410	1	0.0035	0.0036
+Species	Phytophthora sp. isolate SCRP233	1	0.0035	0.0036
+Species	Phytophthora sp. JP2	1	0.0035	0.0036
+Species	Phytophthora sp. JP4	1	0.0035	0.0036
+Species	Phytophthora sp. JP7	1	0.0035	0.0036
+Species	Phytophthora sp. KACC 40914	1	0.0035	0.0036
+Species	Phytophthora sp. KACC40449	1	0.0035	0.0036
+Species	Phytophthora sp. Kunnunara	1	0.0035	0.0036
+Species	Phytophthora sp. LS-2018a	1	0.0035	0.0036
+Species	Phytophthora sp. MAFF 238158	1	0.0035	0.0036
+Species	Phytophthora sp. Marion-2012	1	0.0035	0.0036
+Species	Phytophthora sp. Maryland 2	1	0.0035	0.0036
+Species	Phytophthora sp. Maryland 4	1	0.0035	0.0036
+Species	Phytophthora sp. Maryland 5	1	0.0035	0.0036
+Species	Phytophthora sp. Maryland 6	1	0.0035	0.0036
+Species	Phytophthora sp. Maryland 8	1	0.0035	0.0036
+Species	Phytophthora sp. Maryland 9	1	0.0035	0.0036
+Species	Phytophthora sp. MC1A	1	0.0035	0.0036
+Species	Phytophthora sp. MC32	1	0.0035	0.0036
+Species	Phytophthora sp. MC5	1	0.0035	0.0036
+Species	Phytophthora sp. MC53	1	0.0035	0.0036
+Species	Phytophthora sp. MCH	1	0.0035	0.0036
+Species	Phytophthora sp. MCO	1	0.0035	0.0036
+Species	Phytophthora sp. MDC-2012b	1	0.0035	0.0036
+Species	Phytophthora sp. MFM-2016a	1	0.0035	0.0036
+Species	Phytophthora sp. MN 23	1	0.0035	0.0036
+Species	Phytophthora sp. MN1	1	0.0035	0.0036
+Species	Phytophthora sp. MN14d	1	0.0035	0.0036
+Species	Phytophthora sp. neb 1543	1	0.0035	0.0036
+Species	Phytophthora sp. nixiensis	1	0.0035	0.0036
+Species	Phytophthora sp. NJB-2015	1	0.0035	0.0036
+Species	Phytophthora sp. occultans-like	1	0.0035	0.0036
+Species	Phytophthora sp. P1054	1	0.0035	0.0036
+Species	Phytophthora sp. P10873	1	0.0035	0.0036
+Species	Phytophthora sp. P11656	1	0.0035	0.0036
+Species	Phytophthora sp. P1200	1	0.0035	0.0036
+Species	Phytophthora sp. P12745	1	0.0035	0.0036
+Species	Phytophthora sp. P1679	1	0.0035	0.0036
+Species	Phytophthora sp. P16825	1	0.0035	0.0036
+Species	Phytophthora sp. P16855	1	0.0035	0.0036
+Species	Phytophthora sp. P16858	1	0.0035	0.0036
+Species	Phytophthora sp. P16859	1	0.0035	0.0036
+Species	Phytophthora sp. P1714	1	0.0035	0.0036
+Species	Phytophthora sp. P19145	1	0.0035	0.0036
+Species	Phytophthora sp. P21283	1	0.0035	0.0036
+Species	Phytophthora sp. P28	1	0.0035	0.0036
+Species	Phytophthora sp. P32	1	0.0035	0.0036
+Species	Phytophthora sp. P34	1	0.0035	0.0036
+Species	Phytophthora sp. P3587	1	0.0035	0.0036
+Species	Phytophthora sp. P3602	1	0.0035	0.0036
+Species	Phytophthora sp. P47	1	0.0035	0.0036
+Species	Phytophthora sp. P51	1	0.0035	0.0036
+Species	Phytophthora sp. P532	1	0.0035	0.0036
+Species	Phytophthora sp. P61	1	0.0035	0.0036
+Species	Phytophthora sp. P79 (BO-15)	1	0.0035	0.0036
+Species	Phytophthora sp. P82 (B13A)	1	0.0035	0.0036
+Species	Phytophthora sp. P8213	1	0.0035	0.0036
+Species	Phytophthora sp. P896	1	0.0035	0.0036
+Species	Phytophthora sp. Peru 1	1	0.0035	0.0036
+Species	Phytophthora sp. Peru 3	1	0.0035	0.0036
+Species	Phytophthora sp. Ph1	1	0.0035	0.0036
+Species	Phytophthora sp. PR12-475	1	0.0035	0.0036
+Species	Phytophthora sp. PR13-109	1	0.0035	0.0036
+Species	Phytophthora sp. R1	1	0.0035	0.0036
+Species	Phytophthora sp. R2	1	0.0035	0.0036
+Species	Phytophthora sp. REB326-69	1	0.0035	0.0036
+Species	Phytophthora sp. ST18-37	1	0.0035	0.0036
+Species	Phytophthora sp. SUC615	1	0.0035	0.0036
+Species	Phytophthora sp. TARI 27147	1	0.0035	0.0036
+Species	Phytophthora sp. TARI 28041	1	0.0035	0.0036
+Species	Phytophthora sp. Taxodium 1	1	0.0035	0.0036
+Species	Phytophthora sp. Taxodium 2	1	0.0035	0.0036
+Species	Phytophthora sp. taxon castitis	1	0.0035	0.0036
+Species	Phytophthora sp. TF16	1	0.0035	0.0036
+Species	Phytophthora sp. TTB-2010	1	0.0035	0.0036
+Species	Phytophthora sp. Umtamvuna	1	0.0035	0.0036
+Species	Phytophthora sp. unk1	1	0.0035	0.0036
+Species	Phytophthora sp. unk2	1	0.0035	0.0036
+Species	Phytophthora sp. V24	1	0.0035	0.0036
+Species	Phytophthora sp. V53	1	0.0035	0.0036
+Species	Phytophthora sp. VHS16115	1	0.0035	0.0036
+Species	Phytophthora sp. VHS17779	1	0.0035	0.0036
+Species	Phytophthora sp. VHS5185	1	0.0035	0.0036
+Species	Phytophthora sp. VHSC13615	1	0.0035	0.0036
+Species	Phytophthora sp. WA28-022404	1	0.0035	0.0036
+Species	Phytophthora sp. WAC6627	1	0.0035	0.0036
+Species	Phytophthora sp. WD40b	1	0.0035	0.0036
+Species	Phytophthora sp. WV BSC	1	0.0035	0.0036
+Species	Phytophthora sp. x insolita-like	1	0.0035	0.0036
+Species	Phytophthora sp. zentmyerii	1	0.0035	0.0036
+Species	Phytophthora sp. ZM-2020a	1	0.0035	0.0036
+Species	Phytophthora subarctica	1	0.0035	0.0036
+Species	Phytophthora sulawesiensis	1	0.0035	0.0036
+Species	Phytophthora tabaci	1	0.0035	0.0036
+Species	Phytophthora taxon asparagi	1	0.0035	0.0036
+Species	Phytophthora taxon forestsoil	1	0.0035	0.0036
+Species	Phytophthora taxon juncus	1	0.0035	0.0036
+Species	Phytophthora thermophila x Phytophthora moyootj	1	0.0035	0.0036
+Species	Phytophthora transitoria	1	0.0035	0.0036
+Species	Phytophthora transposita	1	0.0035	0.0036
+Species	Phytophthora ukrainensis	1	0.0035	0.0036
+Species	Phytophthora urerae	1	0.0035	0.0036
+Species	Phytophthora variabilis	1	0.0035	0.0036
+Species	Phytophthora variepedicellata	1	0.0035	0.0036
+Species	Phytopythium aff. chaemaehyphon	1	0.0035	0.0036
+Species	Phytopythium aff. vexans 10 KB-2023	1	0.0035	0.0036
+Species	Phytopythium aff. vexans 13 KB-2023	1	0.0035	0.0036
+Species	Phytopythium aff. vexans 14 KB-2023	1	0.0035	0.0036
+Species	Phytopythium aff. vexans 2 KB-2023	1	0.0035	0.0036
+Species	Phytopythium aff. vexans 4 KB-2023	1	0.0035	0.0036
+Species	Phytopythium aff. vexans 8 KB-2023	1	0.0035	0.0036
+Species	Phytopythium aff. vexans 9 KB-2023	1	0.0035	0.0036
+Species	Phytopythium babaiaharii	1	0.0035	0.0036
+Species	Phytopythium cf. vexans C061	1	0.0035	0.0036
+Species	Phytopythium nanjingense	1	0.0035	0.0036
+Species	Phytopythium sp. 'PV So7'	1	0.0035	0.0036
+Species	Phytopythium sp. 'REB326-70'	1	0.0035	0.0036
+Species	Phytopythium sp. 'REB326-70-like'	1	0.0035	0.0036
+Species	Phytopythium sp. 'sp1 KC-2014'	1	0.0035	0.0036
+Species	Phytopythium sp. 'sp1 PB-2013'	1	0.0035	0.0036
+Species	Phytopythium sp. 'sterile'	1	0.0035	0.0036
+Species	Phytopythium sp. 'UZ612'	1	0.0035	0.0036
+Species	Phytopythium sp. 1 KC-2014	1	0.0035	0.0036
+Species	Phytopythium sp. 2 KC-2014	1	0.0035	0.0036
+Species	Phytopythium sp. 2 PB-2013	1	0.0035	0.0036
+Species	Phytopythium sp. 3 PB-2013	1	0.0035	0.0036
+Species	Phytopythium sp. B57	1	0.0035	0.0036
+Species	Phytopythium sp. BN-2024a	1	0.0035	0.0036
+Species	Phytopythium sp. BN-2024b	1	0.0035	0.0036
+Species	Phytopythium sp. ConDao	1	0.0035	0.0036
+Species	Phytopythium sp. D37	1	0.0035	0.0036
+Species	Phytopythium sp. EBK-2013	1	0.0035	0.0036
+Species	Phytopythium sp. F65	1	0.0035	0.0036
+Species	Phytopythium sp. MNS-2014a	1	0.0035	0.0036
+Species	Phytopythium sp. P24-34	1	0.0035	0.0036
+Species	Phytopythium sp. PV So7	1	0.0035	0.0036
+Species	Phytopythium sp. So7	1	0.0035	0.0036
+Species	Phytopythium sp. T77595-1	1	0.0035	0.0036
+Species	Phytopythium sp. UZ248	1	0.0035	0.0036
+Species	Plasmopara ampelopsidis	1	0.0035	0.0036
+Species	Plasmopara angustiterminalis	1	0.0035	0.0036
+Species	Plasmopara cercidis	1	0.0035	0.0036
+Species	Plasmopara chaerophylli	1	0.0035	0.0036
+Species	Plasmopara densa	1	0.0035	0.0036
+Species	Plasmopara elegantissima	1	0.0035	0.0036
+Species	Plasmopara geranii	1	0.0035	0.0036
+Species	Plasmopara muralis	1	0.0035	0.0036
+Species	Plasmopara sphagneticolae	1	0.0035	0.0036
+Species	Plasmopara velutina	1	0.0035	0.0036
+Species	Plasmoverna anemones-ranunculoides	1	0.0035	0.0036
+Species	Plasmoverna pygmaea	1	0.0035	0.0036
+Species	Plectospira gemmifera	1	0.0035	0.0036
+Species	Protoachlya polysporus	1	0.0035	0.0036
+Species	Protoachlya sp. Argentina 3.1	1	0.0035	0.0036
+Species	Pseudoperonospora sp. D149	1	0.0035	0.0036
+Species	Pseudoperonospora sp. D232	1	0.0035	0.0036
+Species	Pseudoperonospora sp. D265	1	0.0035	0.0036
+Species	Pseudoperonospora sp. NY461	1	0.0035	0.0036
+Species	Pseudoperonospora sp. U196	1	0.0035	0.0036
+Species	Pustula obtusata	1	0.0035	0.0036
+Species	Pustula tragopogonis	1	0.0035	0.0036
+Species	Pythiaceae sp. PHY2	1	0.0035	0.0036
+Species	Pythiales sp.	1	0.0035	0.0036
+Species	Pythiogeton microzoosporum	1	0.0035	0.0036
+Species	Pythiogeton paucisporum	1	0.0035	0.0036
+Species	Pythiogeton sp. BV1	1	0.0035	0.0036
+Species	Pythiogeton zeae	1	0.0035	0.0036
+Species	Pythiopsis intermedia	1	0.0035	0.0036
+Species	Pythiopsis sp. JVS-2018a	1	0.0035	0.0036
+Species	Pythium afertile	1	0.0035	0.0036
+Species	Pythium aff. attrantheridum	1	0.0035	0.0036
+Species	Pythium aff. hydnosporum	1	0.0035	0.0036
+Species	Pythium aff. monospermum	1	0.0035	0.0036
+Species	Pythium aff. pachycaule	1	0.0035	0.0036
+Species	Pythium aff. periilum	1	0.0035	0.0036
+Species	Pythium aff. phragmitis	1	0.0035	0.0036
+Species	Pythium aff. pleroticum	1	0.0035	0.0036
+Species	Pythium aff. volutum	1	0.0035	0.0036
+Species	Pythium agreste	1	0.0035	0.0036
+Species	Pythium cedri	1	0.0035	0.0036
+Species	Pythium cf. conidiophorum	1	0.0035	0.0036
+Species	Pythium cf. deliense D2.5S2P21-2	1	0.0035	0.0036
+Species	Pythium cf. dictyosporum	1	0.0035	0.0036
+Species	Pythium cf. periplocum 4SE010	1	0.0035	0.0036
+Species	Pythium cf. porphyrae D0S3P02	1	0.0035	0.0036
+Species	Pythium cf. xZSF0056	1	0.0035	0.0036
+Species	Pythium echinogynum	1	0.0035	0.0036
+Species	Pythium folliculosum	1	0.0035	0.0036
+Species	Pythium marinum	1	0.0035	0.0036
+Species	Pythium myophilum	1	0.0035	0.0036
+Species	Pythium oryzicollum	1	0.0035	0.0036
+Species	Pythium phragmiticola	1	0.0035	0.0036
+Species	Pythium serotinoosporum	1	0.0035	0.0036
+Species	Pythium sp. 'aquasilvae'	1	0.0035	0.0036
+Species	Pythium sp. 'cf. amazonianum C022'	1	0.0035	0.0036
+Species	Pythium sp. 'cf. amazonianum C024'	1	0.0035	0.0036
+Species	Pythium sp. 'strain 1-9-like1'	1	0.0035	0.0036
+Species	Pythium sp. 'strain 1-9-like4'	1	0.0035	0.0036
+Species	Pythium sp. 'thermoculicivorax'	1	0.0035	0.0036
+Species	Pythium sp. 1 HW-2013	1	0.0035	0.0036
+Species	Pythium sp. 1 JJC-2018	1	0.0035	0.0036
+Species	Pythium sp. 1 KC-2014	1	0.0035	0.0036
+Species	Pythium sp. 1 LAC-2014	1	0.0035	0.0036
+Species	Pythium sp. 1 PV-2016	1	0.0035	0.0036
+Species	Pythium sp. 1 ROH-2015	1	0.0035	0.0036
+Species	Pythium sp. 1106-4-4B	1	0.0035	0.0036
+Species	Pythium sp. 13 eu	1	0.0035	0.0036
+Species	Pythium sp. 14 eu	1	0.0035	0.0036
+Species	Pythium sp. 173	1	0.0035	0.0036
+Species	Pythium sp. 2 KC-2014	1	0.0035	0.0036
+Species	Pythium sp. 2 LAC-2014	1	0.0035	0.0036
+Species	Pythium sp. 2 PV-2016	1	0.0035	0.0036
+Species	Pythium sp. 22 us-1	1	0.0035	0.0036
+Species	Pythium sp. 241 us-1	1	0.0035	0.0036
+Species	Pythium sp. 26 us-2	1	0.0035	0.0036
+Species	Pythium sp. 280 A eu	1	0.0035	0.0036
+Species	Pythium sp. 286	1	0.0035	0.0036
+Species	Pythium sp. 29 us	1	0.0035	0.0036
+Species	Pythium sp. 3 KVS-2023	1	0.0035	0.0036
+Species	Pythium sp. 3 LAC-2014	1	0.0035	0.0036
+Species	Pythium sp. 30b us-1	1	0.0035	0.0036
+Species	Pythium sp. 4 eu	1	0.0035	0.0036
+Species	Pythium sp. 4 JJC-2018	1	0.0035	0.0036
+Species	Pythium sp. 5 JJC-2018	1	0.0035	0.0036
+Species	Pythium sp. 6 eu	1	0.0035	0.0036
+Species	Pythium sp. 6 KVS-2023	1	0.0035	0.0036
+Species	Pythium sp. 66	1	0.0035	0.0036
+Species	Pythium sp. 7 KVS-2023	1	0.0035	0.0036
+Species	Pythium sp. 7b eu	1	0.0035	0.0036
+Species	Pythium sp. 8 KVS-2023	1	0.0035	0.0036
+Species	Pythium sp. 802 us-2	1	0.0035	0.0036
+Species	Pythium sp. 803-2 us	1	0.0035	0.0036
+Species	Pythium sp. 805 us	1	0.0035	0.0036
+Species	Pythium sp. 806 us	1	0.0035	0.0036
+Species	Pythium sp. 814 us-2	1	0.0035	0.0036
+Species	Pythium sp. 8206 PARP	1	0.0035	0.0036
+Species	Pythium sp. 824b	1	0.0035	0.0036
+Species	Pythium sp. 840b us	1	0.0035	0.0036
+Species	Pythium sp. 845 us-2	1	0.0035	0.0036
+Species	Pythium sp. 870 us	1	0.0035	0.0036
+Species	Pythium sp. 881 us-1	1	0.0035	0.0036
+Species	Pythium sp. 884 us-2	1	0.0035	0.0036
+Species	Pythium sp. 914 us	1	0.0035	0.0036
+Species	Pythium sp. 916 us	1	0.0035	0.0036
+Species	Pythium sp. 93-68P	1	0.0035	0.0036
+Species	Pythium sp. 93-70P	1	0.0035	0.0036
+Species	Pythium sp. 96-224	1	0.0035	0.0036
+Species	Pythium sp. 978 eu B	1	0.0035	0.0036
+Species	Pythium sp. 987 B eu	1	0.0035	0.0036
+Species	Pythium sp. 987-A eu	1	0.0035	0.0036
+Species	Pythium sp. 991b eu	1	0.0035	0.0036
+Species	Pythium sp. A16	1	0.0035	0.0036
+Species	Pythium sp. Arg 3.5	1	0.0035	0.0036
+Species	Pythium sp. ASR17	1	0.0035	0.0036
+Species	Pythium sp. AW-A	1	0.0035	0.0036
+Species	Pythium sp. AW-C	1	0.0035	0.0036
+Species	Pythium sp. AW-E	1	0.0035	0.0036
+Species	Pythium sp. AW-F	1	0.0035	0.0036
+Species	Pythium sp. AW-G	1	0.0035	0.0036
+Species	Pythium sp. AW-H	1	0.0035	0.0036
+Species	Pythium sp. AW-K	1	0.0035	0.0036
+Species	Pythium sp. AW-M	1	0.0035	0.0036
+Species	Pythium sp. AW-N	1	0.0035	0.0036
+Species	Pythium sp. B-23	1	0.0035	0.0036
+Species	Pythium sp. B12	1	0.0035	0.0036
+Species	Pythium sp. B57	1	0.0035	0.0036
+Species	Pythium sp. B81	1	0.0035	0.0036
+Species	Pythium sp. Bamako dog	1	0.0035	0.0036
+Species	Pythium sp. BG01	1	0.0035	0.0036
+Species	Pythium sp. BG12	1	0.0035	0.0036
+Species	Pythium sp. BN-2024f	1	0.0035	0.0036
+Species	Pythium sp. BP 2013a	1	0.0035	0.0036
+Species	Pythium sp. BP 2013b	1	0.0035	0.0036
+Species	Pythium sp. BP 2013c	1	0.0035	0.0036
+Species	Pythium sp. BP 2013d	1	0.0035	0.0036
+Species	Pythium sp. BP 2013e	1	0.0035	0.0036
+Species	Pythium sp. BP 2013f	1	0.0035	0.0036
+Species	Pythium sp. BP 2013g	1	0.0035	0.0036
+Species	Pythium sp. BP 2013h	1	0.0035	0.0036
+Species	Pythium sp. BP 2013j	1	0.0035	0.0036
+Species	Pythium sp. BP 2013k	1	0.0035	0.0036
+Species	Pythium sp. BP 2013l	1	0.0035	0.0036
+Species	Pythium sp. BP 2013m	1	0.0035	0.0036
+Species	Pythium sp. BP-2008a	1	0.0035	0.0036
+Species	Pythium sp. BP-2008b	1	0.0035	0.0036
+Species	Pythium sp. BP-2009c	1	0.0035	0.0036
+Species	Pythium sp. C24	1	0.0035	0.0036
+Species	Pythium sp. C34	1	0.0035	0.0036
+Species	Pythium sp. C88	1	0.0035	0.0036
+Species	Pythium sp. CAL-2011e	1	0.0035	0.0036
+Species	Pythium sp. CBS531	1	0.0035	0.0036
+Species	Pythium sp. cernum/BP-2010	1	0.0035	0.0036
+Species	Pythium sp. CLE-2015a	1	0.0035	0.0036
+Species	Pythium sp. CLE-2015b	1	0.0035	0.0036
+Species	Pythium sp. CLE-2015c	1	0.0035	0.0036
+Species	Pythium sp. CLE-2015d	1	0.0035	0.0036
+Species	Pythium sp. CLE-2015e	1	0.0035	0.0036
+Species	Pythium sp. CLE-2015f	1	0.0035	0.0036
+Species	Pythium sp. CLZ223	1	0.0035	0.0036
+Species	Pythium sp. D02	1	0.0035	0.0036
+Species	Pythium sp. D21	1	0.0035	0.0036
+Species	Pythium sp. D48	1	0.0035	0.0036
+Species	Pythium sp. D85	1	0.0035	0.0036
+Species	Pythium sp. D92	1	0.0035	0.0036
+Species	Pythium sp. E06	1	0.0035	0.0036
+Species	Pythium sp. E13106a	1	0.0035	0.0036
+Species	Pythium sp. E13106f	1	0.0035	0.0036
+Species	Pythium sp. E17	1	0.0035	0.0036
+Species	Pythium sp. E47	1	0.0035	0.0036
+Species	Pythium sp. E58	1	0.0035	0.0036
+Species	Pythium sp. F-1216	1	0.0035	0.0036
+Species	Pythium sp. F-1231	1	0.0035	0.0036
+Species	Pythium sp. F-1234	1	0.0035	0.0036
+Species	Pythium sp. F-1253	1	0.0035	0.0036
+Species	Pythium sp. F-1292	1	0.0035	0.0036
+Species	Pythium sp. F-1308	1	0.0035	0.0036
+Species	Pythium sp. F-1308.1	1	0.0035	0.0036
+Species	Pythium sp. F-1309.1	1	0.0035	0.0036
+Species	Pythium sp. F-1318	1	0.0035	0.0036
+Species	Pythium sp. F-1318.1	1	0.0035	0.0036
+Species	Pythium sp. F-1319	1	0.0035	0.0036
+Species	Pythium sp. F-1331	1	0.0035	0.0036
+Species	Pythium sp. F-1335	1	0.0035	0.0036
+Species	Pythium sp. F-1374	1	0.0035	0.0036
+Species	Pythium sp. F-1374.1	1	0.0035	0.0036
+Species	Pythium sp. F-1376	1	0.0035	0.0036
+Species	Pythium sp. F-1393	1	0.0035	0.0036
+Species	Pythium sp. F-1399	1	0.0035	0.0036
+Species	Pythium sp. F-1412	1	0.0035	0.0036
+Species	Pythium sp. F-1413	1	0.0035	0.0036
+Species	Pythium sp. F-1432.1	1	0.0035	0.0036
+Species	Pythium sp. F-147	1	0.0035	0.0036
+Species	Pythium sp. F-147.10	1	0.0035	0.0036
+Species	Pythium sp. F-1476	1	0.0035	0.0036
+Species	Pythium sp. F-1476.1	1	0.0035	0.0036
+Species	Pythium sp. F-147C	1	0.0035	0.0036
+Species	Pythium sp. F-148	1	0.0035	0.0036
+Species	Pythium sp. F-1504.2.0	1	0.0035	0.0036
+Species	Pythium sp. F-1509	1	0.0035	0.0036
+Species	Pythium sp. F-1511.2 (Ourika 2)	1	0.0035	0.0036
+Species	Pythium sp. F-1517.1	1	0.0035	0.0036
+Species	Pythium sp. F-152.2	1	0.0035	0.0036
+Species	Pythium sp. F-1525.4	1	0.0035	0.0036
+Species	Pythium sp. F-1540.4	1	0.0035	0.0036
+Species	Pythium sp. F-1541.11	1	0.0035	0.0036
+Species	Pythium sp. F-1541.8	1	0.0035	0.0036
+Species	Pythium sp. F-1545.7	1	0.0035	0.0036
+Species	Pythium sp. F-1550.16	1	0.0035	0.0036
+Species	Pythium sp. F-1550.7	1	0.0035	0.0036
+Species	Pythium sp. F-162	1	0.0035	0.0036
+Species	Pythium sp. F-163	1	0.0035	0.0036
+Species	Pythium sp. F-166	1	0.0035	0.0036
+Species	Pythium sp. F-39	1	0.0035	0.0036
+Species	Pythium sp. F-42.1	1	0.0035	0.0036
+Species	Pythium sp. F-713	1	0.0035	0.0036
+Species	Pythium sp. F-74	1	0.0035	0.0036
+Species	Pythium sp. F-923.1	1	0.0035	0.0036
+Species	Pythium sp. F-940	1	0.0035	0.0036
+Species	Pythium sp. F-977	1	0.0035	0.0036
+Species	Pythium sp. F1630	1	0.0035	0.0036
+Species	Pythium sp. F32	1	0.0035	0.0036
+Species	Pythium sp. F61	1	0.0035	0.0036
+Species	Pythium sp. F65	1	0.0035	0.0036
+Species	Pythium sp. FL-2016a	1	0.0035	0.0036
+Species	Pythium sp. FL-2016b	1	0.0035	0.0036
+Species	Pythium sp. FL-2016c	1	0.0035	0.0036
+Species	Pythium sp. FL-2016d	1	0.0035	0.0036
+Species	Pythium sp. FL-2016e	1	0.0035	0.0036
+Species	Pythium sp. FL-2016f	1	0.0035	0.0036
+Species	Pythium sp. FL-2016g	1	0.0035	0.0036
+Species	Pythium sp. FL-2016h	1	0.0035	0.0036
+Species	Pythium sp. FL-2016i	1	0.0035	0.0036
+Species	Pythium sp. FL-2016j	1	0.0035	0.0036
+Species	Pythium sp. FL-2016k	1	0.0035	0.0036
+Species	Pythium sp. FL-2016l	1	0.0035	0.0036
+Species	Pythium sp. FS-2023a	1	0.0035	0.0036
+Species	Pythium sp. FS-2023b	1	0.0035	0.0036
+Species	Pythium sp. FS-2023c	1	0.0035	0.0036
+Species	Pythium sp. FS-2023d	1	0.0035	0.0036
+Species	Pythium sp. GD4e	1	0.0035	0.0036
+Species	Pythium sp. GY-1938	1	0.0035	0.0036
+Species	Pythium sp. hordeum	1	0.0035	0.0036
+Species	Pythium sp. HT2-5	1	0.0035	0.0036
+Species	Pythium sp. I-848	1	0.0035	0.0036
+Species	Pythium sp. I-886	1	0.0035	0.0036
+Species	Pythium sp. I-978	1	0.0035	0.0036
+Species	Pythium sp. I-987	1	0.0035	0.0036
+Species	Pythium sp. IBL//2011/30	1	0.0035	0.0036
+Species	Pythium sp. IBL/2011/12/1	1	0.0035	0.0036
+Species	Pythium sp. IBL/2011/13/1	1	0.0035	0.0036
+Species	Pythium sp. IBL/2011/22/2	1	0.0035	0.0036
+Species	Pythium sp. IBL/2011/29/1	1	0.0035	0.0036
+Species	Pythium sp. IBL/2011/29/2	1	0.0035	0.0036
+Species	Pythium sp. JN-1	1	0.0035	0.0036
+Species	Pythium sp. JN-12	1	0.0035	0.0036
+Species	Pythium sp. JN-13	1	0.0035	0.0036
+Species	Pythium sp. JN-14	1	0.0035	0.0036
+Species	Pythium sp. JN-5	1	0.0035	0.0036
+Species	Pythium sp. JN-7a	1	0.0035	0.0036
+Species	Pythium sp. JN-8	1	0.0035	0.0036
+Species	Pythium sp. KS121	1	0.0035	0.0036
+Species	Pythium sp. longicarpum/BP-2010	1	0.0035	0.0036
+Species	Pythium sp. LVP A	1	0.0035	0.0036
+Species	Pythium sp. LVP B	1	0.0035	0.0036
+Species	Pythium sp. LVP D	1	0.0035	0.0036
+Species	Pythium sp. LVP F	1	0.0035	0.0036
+Species	Pythium sp. M2-05	1	0.0035	0.0036
+Species	Pythium sp. MJY-M 2004	1	0.0035	0.0036
+Species	Pythium sp. N053	1	0.0035	0.0036
+Species	Pythium sp. OAK	1	0.0035	0.0036
+Species	Pythium sp. OPU1448	1	0.0035	0.0036
+Species	Pythium sp. OPU797	1	0.0035	0.0036
+Species	Pythium sp. OPU809	1	0.0035	0.0036
+Species	Pythium sp. P056	1	0.0035	0.0036
+Species	Pythium sp. P15703	1	0.0035	0.0036
+Species	Pythium sp. P15845	1	0.0035	0.0036
+Species	Pythium sp. P16681	1	0.0035	0.0036
+Species	Pythium sp. P16683	1	0.0035	0.0036
+Species	Pythium sp. P17-1	1	0.0035	0.0036
+Species	Pythium sp. P17-3	1	0.0035	0.0036
+Species	Pythium sp. P19421	1	0.0035	0.0036
+Species	Pythium sp. P19432	1	0.0035	0.0036
+Species	Pythium sp. P19467	1	0.0035	0.0036
+Species	Pythium sp. P19510	1	0.0035	0.0036
+Species	Pythium sp. P8207	1	0.0035	0.0036
+Species	Pythium sp. P8212	1	0.0035	0.0036
+Species	Pythium sp. PA53	1	0.0035	0.0036
+Species	Pythium sp. PA54	1	0.0035	0.0036
+Species	Pythium sp. PB-2003a	1	0.0035	0.0036
+Species	Pythium sp. PB-2007	1	0.0035	0.0036
+Species	Pythium sp. PB2-R8-A Lr	1	0.0035	0.0036
+Species	Pythium sp. PE154	1	0.0035	0.0036
+Species	Pythium sp. PE159	1	0.0035	0.0036
+Species	Pythium sp. PI-5	1	0.0035	0.0036
+Species	Pythium sp. PPRI8598	1	0.0035	0.0036
+Species	Pythium sp. PPRI8614	1	0.0035	0.0036
+Species	Pythium sp. PV So7	1	0.0035	0.0036
+Species	Pythium sp. PV Wi 22h	1	0.0035	0.0036
+Species	Pythium sp. Py26	1	0.0035	0.0036
+Species	Pythium sp. Py292	1	0.0035	0.0036
+Species	Pythium sp. Py293	1	0.0035	0.0036
+Species	Pythium sp. Py294	1	0.0035	0.0036
+Species	Pythium sp. Py55	1	0.0035	0.0036
+Species	Pythium sp. REB326-70	1	0.0035	0.0036
+Species	Pythium sp. REB326-73	1	0.0035	0.0036
+Species	Pythium sp. REB326-74	1	0.0035	0.0036
+Species	Pythium sp. REB326-77	1	0.0035	0.0036
+Species	Pythium sp. RSC-2004	1	0.0035	0.0036
+Species	Pythium sp. SCOR-2015	1	0.0035	0.0036
+Species	Pythium sp. solare	1	0.0035	0.0036
+Species	Pythium sp. SR33	1	0.0035	0.0036
+Species	Pythium sp. SR36	1	0.0035	0.0036
+Species	Pythium sp. stipitatum (F-1516)	1	0.0035	0.0036
+Species	Pythium sp. stipitatum (TUR 14-3)	1	0.0035	0.0036
+Species	Pythium sp. SU-2014	1	0.0035	0.0036
+Species	Pythium sp. Ten2	1	0.0035	0.0036
+Species	Pythium sp. Ten8-1	1	0.0035	0.0036
+Species	Pythium sp. tumidum	1	0.0035	0.0036
+Species	Pythium sp. Tun-2	1	0.0035	0.0036
+Species	Pythium sp. Tun-30	1	0.0035	0.0036
+Species	Pythium sp. Turkey 1	1	0.0035	0.0036
+Species	Pythium sp. UASWS STEU6209	1	0.0035	0.0036
+Species	Pythium sp. UASWS0160	1	0.0035	0.0036
+Species	Pythium sp. UASWS0162	1	0.0035	0.0036
+Species	Pythium sp. UASWS0163	1	0.0035	0.0036
+Species	Pythium sp. UASWS0164	1	0.0035	0.0036
+Species	Pythium sp. UASWS0165	1	0.0035	0.0036
+Species	Pythium sp. UASWS0166	1	0.0035	0.0036
+Species	Pythium sp. UASWS0167	1	0.0035	0.0036
+Species	Pythium sp. UASWS0168	1	0.0035	0.0036
+Species	Pythium sp. UASWS0169	1	0.0035	0.0036
+Species	Pythium sp. UASWS0170	1	0.0035	0.0036
+Species	Pythium sp. UASWS0171	1	0.0035	0.0036
+Species	Pythium sp. UASWS0172	1	0.0035	0.0036
+Species	Pythium sp. UASWS0173	1	0.0035	0.0036
+Species	Pythium sp. UASWS0174	1	0.0035	0.0036
+Species	Pythium sp. UASWS0175	1	0.0035	0.0036
+Species	Pythium sp. UASWS0176	1	0.0035	0.0036
+Species	Pythium sp. UASWS0178	1	0.0035	0.0036
+Species	Pythium sp. UASWS0189	1	0.0035	0.0036
+Species	Pythium sp. UASWS0201	1	0.0035	0.0036
+Species	Pythium sp. UASWS0221	1	0.0035	0.0036
+Species	Pythium sp. UASWS0288	1	0.0035	0.0036
+Species	Pythium sp. UASWS0290	1	0.0035	0.0036
+Species	Pythium sp. UASWS0291	1	0.0035	0.0036
+Species	Pythium sp. UASWS1226	1	0.0035	0.0036
+Species	Pythium sp. UASWS188	1	0.0035	0.0036
+Species	Pythium sp. unique3	1	0.0035	0.0036
+Species	Pythium sp. UZ156	1	0.0035	0.0036
+Species	Pythium sp. UZ164	1	0.0035	0.0036
+Species	Pythium sp. UZ182	1	0.0035	0.0036
+Species	Pythium sp. UZ190	1	0.0035	0.0036
+Species	Pythium sp. UZ230	1	0.0035	0.0036
+Species	Pythium sp. UZ248	1	0.0035	0.0036
+Species	Pythium sp. UZ249	1	0.0035	0.0036
+Species	Pythium sp. UZ252	1	0.0035	0.0036
+Species	Pythium sp. UZ260	1	0.0035	0.0036
+Species	Pythium sp. UZ263	1	0.0035	0.0036
+Species	Pythium sp. UZ275	1	0.0035	0.0036
+Species	Pythium sp. UZ284	1	0.0035	0.0036
+Species	Pythium sp. UZ285	1	0.0035	0.0036
+Species	Pythium sp. UZ287	1	0.0035	0.0036
+Species	Pythium sp. UZ290	1	0.0035	0.0036
+Species	Pythium sp. UZ379	1	0.0035	0.0036
+Species	Pythium sp. UZ400	1	0.0035	0.0036
+Species	Pythium sp. UZ416	1	0.0035	0.0036
+Species	Pythium sp. UZ419	1	0.0035	0.0036
+Species	Pythium sp. UZ594	1	0.0035	0.0036
+Species	Pythium sp. UZ612	1	0.0035	0.0036
+Species	Pythium sp. UZ636	1	0.0035	0.0036
+Species	Pythium sp. UZ655	1	0.0035	0.0036
+Species	Pythium sp. V1	1	0.0035	0.0036
+Species	Pythium sp. V12	1	0.0035	0.0036
+Species	Pythium sp. valencianum	1	0.0035	0.0036
+Species	Pythium sp. WD2D	1	0.0035	0.0036
+Species	Pythium sp. WD2E	1	0.0035	0.0036
+Species	Pythium sp. WD2J	1	0.0035	0.0036
+Species	Pythium sp. WJB-1	1	0.0035	0.0036
+Species	Pythium sp. WJB-2	1	0.0035	0.0036
+Species	Pythium sp. WJB-3	1	0.0035	0.0036
+Species	Pythium sp. WL-2015	1	0.0035	0.0036
+Species	Pythium sp. WM_5	1	0.0035	0.0036
+Species	Pythium sp. XGL324	1	0.0035	0.0036
+Species	Pythium sp. ZSF0011	1	0.0035	0.0036
+Species	Pythium sp. ZSF0030	1	0.0035	0.0036
+Species	Pythium sp. ZSF0056	1	0.0035	0.0036
+Species	Pythium sp. ZSF0069	1	0.0035	0.0036
+Species	Pythium sukuiense	1	0.0035	0.0036
+Species	Salisapilia bahamensis	1	0.0035	0.0036
+Species	Salisapilia coffeyi	1	0.0035	0.0036
+Species	Salisapilia elongata	1	0.0035	0.0036
+Species	Salisapilia masteri	1	0.0035	0.0036
+Species	Salisapilia mycoparasitica	1	0.0035	0.0036
+Species	Salisapilia nakagirii	1	0.0035	0.0036
+Species	Salisapilia sp. LT6460	1	0.0035	0.0036
+Species	Saprolegnia brachydanionis (nom. inval.)	1	0.0035	0.0036
+Species	Saprolegnia cf. ferax VI02389	1	0.0035	0.0036
+Species	Saprolegnia cf. ferax VI04808	1	0.0035	0.0036
+Species	Saprolegnia cf. kauffmanniana H1E2	1	0.0035	0.0036
+Species	Saprolegnia mixta	1	0.0035	0.0036
+Species	Saprolegnia multispora	1	0.0035	0.0036
+Species	Saprolegnia oliviae	1	0.0035	0.0036
+Species	Saprolegnia sp. 1 JVS-2015	1	0.0035	0.0036
+Species	Saprolegnia sp. 197907	1	0.0035	0.0036
+Species	Saprolegnia sp. 736F2	1	0.0035	0.0036
+Species	Saprolegnia sp. 746F4	1	0.0035	0.0036
+Species	Saprolegnia sp. AESB	1	0.0035	0.0036
+Species	Saprolegnia sp. Arg 009	1	0.0035	0.0036
+Species	Saprolegnia sp. BBE17	1	0.0035	0.0036
+Species	Saprolegnia sp. BBE20	1	0.0035	0.0036
+Species	Saprolegnia sp. BMY	1	0.0035	0.0036
+Species	Saprolegnia sp. BP-S1	1	0.0035	0.0036
+Species	Saprolegnia sp. CAL-2011b	1	0.0035	0.0036
+Species	Saprolegnia sp. crucian carp/strain JL	1	0.0035	0.0036
+Species	Saprolegnia sp. CY1	1	0.0035	0.0036
+Species	Saprolegnia sp. DC3U9_2007	1	0.0035	0.0036
+Species	Saprolegnia sp. EM14	1	0.0035	0.0036
+Species	Saprolegnia sp. EM25	1	0.0035	0.0036
+Species	Saprolegnia sp. F-1561.8	1	0.0035	0.0036
+Species	Saprolegnia sp. H-	1	0.0035	0.0036
+Species	Saprolegnia sp. H1E4	1	0.0035	0.0036
+Species	Saprolegnia sp. H2E1	1	0.0035	0.0036
+Species	Saprolegnia sp. H3E3	1	0.0035	0.0036
+Species	Saprolegnia sp. HP	1	0.0035	0.0036
+Species	Saprolegnia sp. HZL1	1	0.0035	0.0036
+Species	Saprolegnia sp. II-2	1	0.0035	0.0036
+Species	Saprolegnia sp. JE1	1	0.0035	0.0036
+Species	Saprolegnia sp. JR-2014a	1	0.0035	0.0036
+Species	Saprolegnia sp. JY	1	0.0035	0.0036
+Species	Saprolegnia sp. JY2	1	0.0035	0.0036
+Species	Saprolegnia sp. LB	1	0.0035	0.0036
+Species	Saprolegnia sp. LB26	1	0.0035	0.0036
+Species	Saprolegnia sp. LB39	1	0.0035	0.0036
+Species	Saprolegnia sp. LB46	1	0.0035	0.0036
+Species	Saprolegnia sp. LB52	1	0.0035	0.0036
+Species	Saprolegnia sp. MB70	1	0.0035	0.0036
+Species	Saprolegnia sp. MCA 3030	1	0.0035	0.0036
+Species	Saprolegnia sp. MCA 3070	1	0.0035	0.0036
+Species	Saprolegnia sp. MF-2010	1	0.0035	0.0036
+Species	Saprolegnia sp. MNS-2014a	1	0.0035	0.0036
+Species	Saprolegnia sp. nuchiae	1	0.0035	0.0036
+Species	Saprolegnia sp. PB-2012	1	0.0035	0.0036
+Species	Saprolegnia sp. RACA0702	1	0.0035	0.0036
+Species	Saprolegnia sp. RACL2005Karraker	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP0477	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP0500	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1261	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1272	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1304	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1330	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1424	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1459	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1793	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1823	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1950	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP1996	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP2	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP3	1	0.0035	0.0036
+Species	Saprolegnia sp. SAP4	1	0.0035	0.0036
+Species	Saprolegnia sp. SPE	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW105	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW114	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW162	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW176	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW177	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW217	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW218	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW219	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW244	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW250	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW251	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW253	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW254	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW257	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW258	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW259	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW260	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW261	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW262	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW263	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW264	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW266	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW269	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW271	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW273	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW277	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW280	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW283	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW288	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW289	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW290	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW291	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW292	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW295	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW298	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW299	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW300	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW312	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW314	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW315	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW320	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW328	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW329	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW372	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW373	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW374	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW375	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW377	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW380	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW381	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW382	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW383	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW384	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW385	1	0.0035	0.0036
+Species	Saprolegnia sp. UNCW386	1	0.0035	0.0036
+Species	Saprolegnia sp. VI03788	1	0.0035	0.0036
+Species	Saprolegnia sp. VI04818	1	0.0035	0.0036
+Species	Saprolegnia sp. W805b	1	0.0035	0.0036
+Species	Saprolegnia sp. WD1E	1	0.0035	0.0036
+Species	Saprolegnia sp. WD1I	1	0.0035	0.0036
+Species	Saprolegnia sp. WD34A	1	0.0035	0.0036
+Species	Saprolegnia sp. WD3E	1	0.0035	0.0036
+Species	Saprolegnia sp. WM_1	1	0.0035	0.0036
+Species	Saprolegnia sp. WM_2	1	0.0035	0.0036
+Species	Saprolegnia sp. WM_3	1	0.0035	0.0036
+Species	Saprolegnia truncata	1	0.0035	0.0036
+Species	Saprolegnia velencensis	1	0.0035	0.0036
+Species	Saprolegniaceae sp. 265_AH	1	0.0035	0.0036
+Species	Saprolegniaceae sp. UFMGCB 3678	1	0.0035	0.0036
+Species	Saprolegniaceae sp. VI03659	1	0.0035	0.0036
+Species	Saprolegniaceae sp. VI03660	1	0.0035	0.0036
+Species	Saprolegniaceae sp. VI03839	1	0.0035	0.0036
+Species	Saprolegniales sp. EBK-2013a	1	0.0035	0.0036
+Species	Saprolegniales sp. EBK-2013c	1	0.0035	0.0036
+Species	Scoliolegnia asterophora	1	0.0035	0.0036
+Species	Sirolpidium heterosiphoniae	1	0.0035	0.0036
+Species	Sirolpidium pyropiae	1	0.0035	0.0036
+Species	Synchrospora medusiformis	1	0.0035	0.0036
+Species	Thraustotheca sp. Argentina 3.8	1	0.0035	0.0036
+Species	Thraustotheca terrestris	1	0.0035	0.0036
+Species	Wilsoniana achyranthis	1	0.0035	0.0036
+Species	Wilsoniana bliti	1	0.0035	0.0036
+Species	Wilsoniana platensis	1	0.0035	0.0036
+Species	Unassigned at this rank	470	1.6499	NA
